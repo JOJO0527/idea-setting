@@ -144,10 +144,10 @@
       <file name="/test4replication [centos7-docker-mysql]" timestamp="1588499114416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/cap-springcloud/cap-mqprovider/src/main/java/cn/kilog/cap/mqprovider/SendService.java" timestamp="1588844452497">
-        <mark key="[" line="17" column="72" />
-        <mark key="]" line="17" column="72" />
-        <mark key="." line="17" column="72" />
+      <file name="E:/ideaWorkSpace/cap-springcloud/cap-mqprovider/src/main/java/cn/kilog/cap/mqprovider/SendService.java" timestamp="1588845181644">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="16" />
       </file>
       <file name="/foo.bar" timestamp="1588499680044">
@@ -223,10 +223,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>500</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
