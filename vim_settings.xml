@@ -92,35 +92,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1588839195320">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/ideaWorkSpace/cap-springcloud/cap-mqprovider/src/main/resources/application.yml" timestamp="1588841329353" />
-      <file name="/console_7" timestamp="1588839195027">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1588499966424">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/cap_springcloud.table_name1" timestamp="1588499680035">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1588499028996">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/table_name1 [centos7-docker-mysql]" timestamp="1588499680023">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1588499662795">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/textView" timestamp="1588498018805">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588843192046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/console" timestamp="1588839195320">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4fc56065-ecb9-4de2-aaf6-df5778bfefab/console_7.sql" timestamp="1588499979922">
         <mark key="[" line="2" column="0" />
@@ -128,7 +106,15 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="E:/ideaWorkSpace/cap-springcloud/cap-mqprovider/pom.xml" timestamp="1588839264795" />
+      <file name="E:/ideaWorkSpace/cmap-demo/src/com/company/Main.java" timestamp="1589275956331">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="49" />
+      </file>
+      <file name="/console_7" timestamp="1588839195027">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/ideaWorkSpace/cap-springcloud/cap-order/pom.xml" timestamp="1588839272190">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="8" />
@@ -150,16 +136,30 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="16" />
       </file>
+      <file name="/a.sql" timestamp="1588499966424">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/cap_springcloud.table_name1" timestamp="1588499680035">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/foo.bar" timestamp="1588499680044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/cap_springcloud.test4replication" timestamp="1588499114425">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/default" timestamp="1588499028996">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/table_name1 [centos7-docker-mysql]" timestamp="1588499680023">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1588499662795">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1588843192037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/cap-springcloud/cap-mqprovider/src/main/java/cn/kilog/cap/mqprovider/NormalController.java" timestamp="1588839311465" />
     </filemarks>
     <jumps>
       <jump line="15" column="8" filename="E:/ideaWorkSpace/springbootTest/src/main/java/cn/johnny/springboottest/demoController.java" />
@@ -222,8 +222,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -232,31 +232,31 @@
         <text>VARCHAR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRIZWFkZXIoIl9fU1RBUlRERUxJVkVSVElNRSIsIG5ldyBEYXRlKCkuZ2V0VGltZSgpICsgxOPSqtHTs9m1xLrBw+spCg==</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBteVNvdXJjZS5vdXRwdXQoKS5zZW5kKE1lc3NhZ2VCdWlsZGVyLndpdGhQYXlsb2FkKCJkIikuYnVpbGQoKSk7ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRIZWFkZXIoIl9fU1RBUlRERUxJVkVSVElNRSIsIG5ldyBEYXRlKCkuZ2V0VGltZSgpICsgxOPSqtHTs9m1xLrBw+spCg==</text>
       </register>
       <register name="3" type="2">
-        <text>iu</text>
+        <text encoding="base64">ICAgICAgICBteVNvdXJjZS5vdXRwdXQoKS5zZW5kKE1lc3NhZ2VCdWlsZGVyLndpdGhQYXlsb2FkKCJkIikuYnVpbGQoKSk7ZQo=</text>
       </register>
       <register name="4" type="2">
         <text>iu</text>
       </register>
       <register name="5" type="2">
-        <text>insert into table_name1 value (column_1 = 22);dd</text>
+        <text>iu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYXBfc3ByaW5nY2xvdWQudGFibGVfbmFtZTEK</text>
+        <text>insert into table_name1 value (column_1 = 22);dd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0IGRhdGFiYXNlKGNhc3QoY2FwX3NwcmluZ2Nsb3VkIGFzICkK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYXBfc3ByaW5nY2xvdWQudGFibGVfbmFtZTEK</text>
       </register>
       <register name="8" type="2">
-        <text>select * from table_name;</text>
+        <text encoding="base64">c2VsZWN0IGRhdGFiYXNlKGNhc3QoY2FwX3NwcmluZ2Nsb3VkIGFzICkK</text>
       </register>
       <register name="9" type="2">
-        <text>iu</text>
+        <text>select * from table_name;</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
