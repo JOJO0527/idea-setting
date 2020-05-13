@@ -97,6 +97,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="E:/ideaWorkSpace/cmap-demo/src/com/company/JHSDB_TestCase.java" timestamp="1589362205867">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="39" />
+      </file>
       <file name="$JAVA_HOME$/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1589277314198" />
       <file name="/console" timestamp="1588839195320">
         <mark key="[" line="0" column="0" />
@@ -127,9 +133,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="0" />
-      </file>
-      <file name="/test4replication [centos7-docker-mysql]" timestamp="1588499114416">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ideaWorkSpace/cap-springcloud/cap-mqprovider/src/main/java/cn/kilog/cap/mqprovider/SendService.java" timestamp="1588845181644">
         <mark key="[" line="17" column="27" />
@@ -220,41 +223,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0SG9sZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRIZWFkZXIoIl9fU1RBUlRERUxJVkVSVElNRSIsIG5ldyBEYXRlKCkuZ2V0VGltZSgpICsgxOPSqtHTs9m1xLrBw+spCg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGljIE9iamVjdEhvbGRlciBzdGF0aWNPYmplY3QgPSAgbmV3IE9iamVjdEhvbGRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBteVNvdXJjZS5vdXRwdXQoKS5zZW5kKE1lc3NhZ2VCdWlsZGVyLndpdGhQYXlsb2FkKCJkIikuYnVpbGQoKSk7ZQo=</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text>iu</text>
+        <text encoding="base64">ICAgICAgICBzZXRIZWFkZXIoIl9fU1RBUlRERUxJVkVSVElNRSIsIG5ldyBEYXRlKCkuZ2V0VGltZSgpICsgxOPSqtHTs9m1xLrBw+spCg==</text>
       </register>
       <register name="5" type="2">
-        <text>iu</text>
+        <text encoding="base64">ICAgICAgICBteVNvdXJjZS5vdXRwdXQoKS5zZW5kKE1lc3NhZ2VCdWlsZGVyLndpdGhQYXlsb2FkKCJkIikuYnVpbGQoKSk7ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text>insert into table_name1 value (column_1 = 22);dd</text>
+        <text>iu</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYXBfc3ByaW5nY2xvdWQudGFibGVfbmFtZTEK</text>
+        <text>iu</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IGRhdGFiYXNlKGNhc3QoY2FwX3NwcmluZ2Nsb3VkIGFzICkK</text>
+        <text>insert into table_name1 value (column_1 = 22);dd</text>
       </register>
       <register name="9" type="2">
-        <text>select * from table_name;</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYXBfc3ByaW5nY2xvdWQudGFibGVfbmFtZTEK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
