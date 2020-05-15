@@ -103,9 +103,16 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="39" />
       </file>
+      <file name="E:/ideaWorkSpace/gradle-demo/src/main/java/Main.java" timestamp="1589553369298">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="39" />
+      </file>
       <file name="/console" timestamp="1588839195320">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/ideaWorkSpace/gradle-demo/build.gradle" timestamp="1589553191095" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4fc56065-ecb9-4de2-aaf6-df5778bfefab/console_7.sql" timestamp="1588499979922">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
