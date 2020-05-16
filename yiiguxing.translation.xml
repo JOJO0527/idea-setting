@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post-processing" />
+      <item value="alternative" />
+      <item value="full-fledged" />
+      <item value="placeholder" />
+      <item value="Standalone" />
       <item value="deprecated" />
       <item value="parse Claims Jws" />
       <item value="convert Data" />
@@ -46,16 +51,11 @@
       <item value="process Request" />
       <item value="assigned to" />
       <item value="made up of a name" />
-      <item value="represents" />
-      <item value="Latency" />
-      <item value="latency Fault Tolerance" />
-      <item value="naivgate" />
-      <item value="Lite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>

@@ -92,6 +92,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console" timestamp="1588839195320">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/ideaWorkSpace/cmap-demo/src/com/company/Main.java" timestamp="1589275956331">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="49" />
+      </file>
+      <file name="/console_7" timestamp="1588839195027">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/config/BeanDefinition.java" timestamp="1589640539947">
+        <mark key="[" line="88" column="77" />
+        <mark key="]" line="89" column="16" />
+        <mark key="^" line="89" column="16" />
+        <mark key="." line="89" column="15" />
+      </file>
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" timestamp="1589641106321">
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="." line="325" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1589554062048">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588843192046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -109,8 +135,16 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="/console" timestamp="1588839195320">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java" timestamp="1589641447051">
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="420" column="0" />
+        <mark key="." line="420" column="0" />
+      </file>
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/main/java/org/springframework/context/support/AbstractRefreshableApplicationContext.java" timestamp="1589641792065">
+        <mark key="[" line="235" column="9" />
+        <mark key="]" line="237" column="26" />
+        <mark key="^" line="237" column="26" />
+        <mark key="." line="237" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4fc56065-ecb9-4de2-aaf6-df5778bfefab/console_7.sql" timestamp="1588499979922">
         <mark key="[" line="2" column="0" />
@@ -118,26 +152,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="E:/ideaWorkSpace/cmap-demo/src/com/company/Main.java" timestamp="1589275956331">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="49" />
-        <mark key="." line="10" column="48" />
-        <mark key="^" line="10" column="49" />
-      </file>
-      <file name="/console_7" timestamp="1588839195027">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/main/java/org/springframework/context/support/ClassPathXmlApplicationContext.java" timestamp="1589638524852" />
       <file name="E:/ideaWorkSpace/cap-springcloud/cap-order/pom.xml" timestamp="1588839272190">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="8" />
         <mark key="^" line="56" column="8" />
         <mark key="." line="56" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ee4e2ad9-133d-473c-b4a9-973fd3dc4afe/console.sql" timestamp="1588499974587">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="14" column="0" />
       </file>
       <file name="E:/ideaWorkSpace/cap-springcloud/cap-mqprovider/src/main/java/cn/kilog/cap/mqprovider/SendService.java" timestamp="1588845181644">
         <mark key="[" line="17" column="27" />
@@ -145,26 +165,28 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="/a.sql" timestamp="1588499966424">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1589642045199">
+        <mark key="[" line="1032" column="0" />
+        <mark key="]" line="1032" column="0" />
+        <mark key="." line="1032" column="0" />
       </file>
-      <file name="/cap_springcloud.table_name1" timestamp="1588499680035">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/main/java/org/springframework/context/support/AbstractXmlApplicationContext.java" timestamp="1589640804068">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="79" column="7" />
       </file>
-      <file name="/foo.bar" timestamp="1588499680044">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1589642488066">
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="584" column="63" />
+        <mark key="^" line="584" column="63" />
+        <mark key="." line="584" column="62" />
       </file>
-      <file name="/cap_springcloud.test4replication" timestamp="1588499114425">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/table_name1 [centos7-docker-mysql]" timestamp="1588499680023">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1589554062048">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1588499662795">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java" timestamp="1589641337067">
+        <mark key="[" line="304" column="94" />
+        <mark key="]" line="305" column="64" />
+        <mark key="^" line="305" column="64" />
+        <mark key="." line="305" column="63" />
       </file>
       <file name="/fragment.java" timestamp="1588843192037">
         <mark key="[" line="0" column="0" />
@@ -231,41 +253,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>后面会有大篇幅说初始化过程，</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0SG9sZGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGljIE9iamVjdEhvbGRlciBzdGF0aWNPYmplY3QgPSAgbmV3IE9iamVjdEhvbGRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">CQkJLy8gs/XKvLuvQmVhbkZhY3RvcnkgvNPU2EJlYW62qNLlICDXorLhQmVhbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRIZWFkZXIoIl9fU1RBUlRERUxJVkVSVElNRSIsIG5ldyBEYXRlKCkuZ2V0VGltZSgpICsgxOPSqtHTs9m1xLrBw+spCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBteVNvdXJjZS5vdXRwdXQoKS5zZW5kKE1lc3NhZ2VCdWlsZGVyLndpdGhQYXlsb2FkKCJkIikuYnVpbGQoKSk7ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>iu</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>iu</text>
+        <text encoding="base64">CQkvLyDO0tTauL3CvNbQvPK1pb3pydzBy9K7z8IgaWQgus0gbmFtZSC1xMXk1sOjrLTzvNK/ydLUv7TSu9Hbo6zT0Lj2MjDD677Nv8nS1MHLCg==</text>
       </register>
       <register name="8" type="2">
-        <text>insert into table_name1 value (column_1 = 22);dd</text>
+        <text encoding="base64">CQkvLyC1sci7o6zI57n7xOOyu7ao0uUgbmFtZSDK9NDUtcS7sKOsvs3Kx7/VtcTBywo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjYXBfc3ByaW5nY2xvdWQudGFibGVfbmFtZTEK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
