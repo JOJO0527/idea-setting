@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implementations" />
+      <item value="immediate" />
+      <item value="contrast" />
+      <item value="individual" />
+      <item value="no more do individual objects need to read properties files, * for example" />
+      <item value="no more do individual" />
+      <item value="components" />
+      <item value="registry" />
+      <item value="central" />
+      <item value="approach" />
       <item value="post-processing" />
       <item value="alternative" />
       <item value="full-fledged" />
@@ -41,21 +51,11 @@
       <item value="check if the channel is still open as it could be closed in the mean time when the register // call was outside of the eventLoop" />
       <item value="Positive" />
       <item value="check Positive" />
-      <item value="invoking" />
-      <item value="instantiates" />
-      <item value="Reflective" />
-      <item value="represent" />
-      <item value="guaranteed" />
-      <item value="resides" />
-      <item value="totally" />
-      <item value="process Request" />
-      <item value="assigned to" />
-      <item value="made up of a name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
