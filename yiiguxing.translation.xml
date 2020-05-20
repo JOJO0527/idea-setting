@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="implementations" />
       <item value="immediate" />
       <item value="contrast" />
@@ -50,12 +51,11 @@
       <item value="fire" />
       <item value="check if the channel is still open as it could be closed in the mean time when the register // call was outside of the eventLoop" />
       <item value="Positive" />
-      <item value="check Positive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
