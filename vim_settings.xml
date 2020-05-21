@@ -98,6 +98,7 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1590048744423" />
       <file name="E:/ideaWorkSpace/gradle-demo/src/main/java/Main.java" timestamp="1589553369298">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="2" column="40" />
@@ -133,7 +134,6 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/Aware.java" timestamp="1590046097218" />
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1589642045199">
         <mark key="[" line="1032" column="0" />
         <mark key="]" line="1032" column="0" />
