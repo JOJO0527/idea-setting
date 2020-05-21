@@ -104,11 +104,9 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/build.gradle" timestamp="1589902046588" />
       <file name="/a.dummy" timestamp="1589798798658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java" timestamp="1589901095952" />
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java" timestamp="1589641447051">
         <mark key="[" line="420" column="0" />
         <mark key="]" line="420" column="0" />
@@ -135,7 +133,7 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/test/resources/applicationContext.xml" timestamp="1589901618387" />
+      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/Aware.java" timestamp="1590046097218" />
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1589642045199">
         <mark key="[" line="1032" column="0" />
         <mark key="]" line="1032" column="0" />
