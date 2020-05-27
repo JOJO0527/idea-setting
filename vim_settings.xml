@@ -98,7 +98,6 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1590048744423" />
       <file name="E:/ideaWorkSpace/gradle-demo/src/main/java/Main.java" timestamp="1589553369298">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="2" column="40" />
@@ -145,6 +144,12 @@
         <mark key="^" line="89" column="16" />
         <mark key="." line="89" column="15" />
       </file>
+      <file name="E:/ideaWorkSpace/gradle-demo/src/test/java/cn/kilog/concurrent/threadpool/ThreadpoolDemo.java" timestamp="1590566993019">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="29" />
+      </file>
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" timestamp="1589641106321">
         <mark key="[" line="325" column="0" />
         <mark key="]" line="325" column="0" />
@@ -171,7 +176,7 @@
         <mark key="^" line="305" column="64" />
         <mark key="." line="305" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1589902150784">
+      <file name="/fragment.java" timestamp="1590567160356">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -236,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>1</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
