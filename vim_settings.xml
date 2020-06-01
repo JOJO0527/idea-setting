@@ -98,16 +98,18 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1589798798658">
+      <file name="/a.dummy" timestamp="1590999843863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java" timestamp="1589641447051">
-        <mark key="[" line="420" column="0" />
-        <mark key="]" line="420" column="0" />
-        <mark key="." line="420" column="0" />
-      </file>
+      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/controller/DemoController.java" timestamp="1591000088089" />
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/test/resources/application.xml" timestamp="1589901224853">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/aspect/HttpAopAdviseDefine.java" timestamp="1590999909481">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/main/java/org/springframework/context/support/AbstractRefreshableApplicationContext.java" timestamp="1589641792065">
         <mark key="[" line="235" column="9" />
@@ -136,11 +138,17 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/controller/UserController.java" timestamp="1590895258574">
-        <mark key="[" line="2" column="0" />
+      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/controller/UserController.java" timestamp="1590999993886">
+        <mark key="[" line="12" column="5" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="8" column="4" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_15.http" timestamp="1591000169508">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1589642045199">
         <mark key="[" line="1032" column="0" />
@@ -165,28 +173,17 @@
         <mark key="^" line="55" column="15" />
         <mark key="." line="55" column="14" />
       </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" timestamp="1589641106321">
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
-      </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/main/java/org/springframework/context/support/AbstractXmlApplicationContext.java" timestamp="1589640804068">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="79" column="7" />
+      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/annotation/AuthChecker.java" timestamp="1590999822154">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="E:/ideaWorkSpace/Spring-Framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1589899048805">
         <mark key="[" line="874" column="7" />
         <mark key="]" line="875" column="29" />
         <mark key="^" line="875" column="29" />
         <mark key="." line="875" column="28" />
-      </file>
-      <file name="E:/ideaWorkSpace/Spring-Framework/spring-beans/src/main/java/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java" timestamp="1589641337067">
-        <mark key="[" line="304" column="94" />
-        <mark key="]" line="305" column="64" />
-        <mark key="^" line="305" column="64" />
-        <mark key="." line="305" column="63" />
       </file>
       <file name="E:/ideaWorkSpace/concurrent-demo/src/cn/kilog/concurrent/threadpool/InvokeAnyDemo.java" timestamp="1590568865552">
         <mark key="[" line="27" column="65" />
@@ -260,10 +257,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>/</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
