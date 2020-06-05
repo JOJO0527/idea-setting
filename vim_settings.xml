@@ -93,11 +93,11 @@
     <globalmarks />
     <filemarks>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/mapper/StockMapper.java" timestamp="1591351413388" />
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/application.yml" timestamp="1591350694596">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="6" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/application.yml" timestamp="1591364392905">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
         <mark key="^" line="1" column="6" />
-        <mark key="." line="1" column="6" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/mapper/StockOrderMapper.java" timestamp="1591353266527">
         <mark key="[" line="3" column="0" />
@@ -119,7 +119,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/controller/OrderController.java" timestamp="1591352351046">
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/controller/OrderController.java" timestamp="1591364276259">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="20" column="11" />
         <mark key="^" line="20" column="11" />
@@ -138,7 +138,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/pom.xml" timestamp="1591361632501">
+      <file name="E:/ideaWorkSpace/seckilling-system/pom.xml" timestamp="1591364202627">
         <mark key="[" line="38" column="21" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/impl/StockServiceImpl.java" timestamp="1591351788313">
@@ -227,11 +227,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>589637</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>589637</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
