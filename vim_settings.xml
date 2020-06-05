@@ -92,94 +92,82 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/ideaWorkSpace/filterandinterceptor/src/main/java/cn/kilog/filterandinterceptor/DemoController.java" timestamp="1591188259055">
-        <mark key="[" line="1" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/mapper/StockMapper.java" timestamp="1591351413388" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/application.yml" timestamp="1591350694596">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1590999843863">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/mapper/StockOrderMapper.java" timestamp="1591351697962">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/aspect/HttpAopAdviseDefine.java" timestamp="1590999909481">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="50" column="1" />
-        <mark key="^" line="50" column="1" />
-        <mark key="." line="50" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/StockExample.java" timestamp="1591350908431">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/concurrentDemo2/src/main/java/cn/kilog/concurrent/threadpool/LinkedBlockingDequeDemo.java" timestamp="1591191839563">
-        <mark key="[" line="94" column="44" />
-        <mark key="]" line="110" column="6" />
-        <mark key="." line="110" column="5" />
-        <mark key="^" line="110" column="6" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/Stock.java" timestamp="1591350835688">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_15.http" timestamp="1591000169508">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/StockOrderExample.java" timestamp="1591350937212">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/controller/OrderController.java" timestamp="1591349956736">
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/controller/OrderController.java" timestamp="1591352351046">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="20" column="11" />
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="E:/ideaWorkSpace/filterandinterceptor/src/main/java/cn/kilog/filterandinterceptor/MyFilter.java" timestamp="1591188414248">
-        <mark key="[" line="18" column="61" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="13" column="4" />
-      </file>
-      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/annotation/AuthChecker.java" timestamp="1590999822154">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="3" />
-      </file>
-      <file name="E:/ideaWorkSpace/filterandinterceptor/src/main/java/cn/kilog/filterandinterceptor/MyConfig.java" timestamp="1591188247244">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/impl/OrderServiceImpl.java" timestamp="1591349918450">
-        <mark key="[" line="17" column="5" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/impl/OrderServiceImpl.java" timestamp="1591351835589">
+        <mark key="[" line="16" column="29" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/OrderService.java" timestamp="1591349824042">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="E:/ideaWorkSpace/concurrentDemo2/src/test/java/cn/kilog/concurrent/threadpool/LinkedBlockingDequeDemoTest.java" timestamp="1591191504216">
-        <mark key="[" line="34" column="9" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/User.java" timestamp="1591350860676">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/concurrent-demo/src/cn/kilog/concurrent/threadpool/LinkedBlockingDequeDemo.java" timestamp="1591175454714">
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="8" column="65" />
-        <mark key="^" line="8" column="65" />
-        <mark key="." line="8" column="64" />
+      <file name="E:/ideaWorkSpace/seckilling-system/pom.xml" timestamp="1591350674400">
+        <mark key="[" line="28" column="21" />
       </file>
-      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/controller/UserController.java" timestamp="1590999993886">
-        <mark key="[" line="12" column="5" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/impl/StockServiceImpl.java" timestamp="1591351788313">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="8" column="4" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/concurrentDemo2/pom.xml" timestamp="1591182152733">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/mapper/StockMapper.xml" timestamp="1591352549873">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="7" column="62" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="61" />
       </file>
-      <file name="E:/ideaWorkSpace/aop-demo/src/main/java/cn/kilog/aop/aspect/HttpAspect.java" timestamp="1590895453881">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="55" column="15" />
-        <mark key="^" line="55" column="15" />
-        <mark key="." line="55" column="14" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/mapper/StockOrderMapper.xml" timestamp="1591351195041">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="41" />
+        <mark key="^" line="40" column="41" />
+        <mark key="." line="40" column="40" />
       </file>
-      <file name="E:/ideaWorkSpace/Filter&amp;Interceptor/pom.xml" timestamp="1591187912858">
-        <mark key="[" line="9" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/StockOrder.java" timestamp="1591350877028">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591182210177">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/StockService.java" timestamp="1591351814675" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/SeckillingApplication.java" timestamp="1591352765052">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -244,40 +232,42 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLm1vbml0b3I0YWxsLm1pYW9zaGFkYW8uZGFvLlN0b2NrT3JkZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHBhY2thZ2UgY24ubW9uaXRvcjRhbGwubWlhb3NoYWRhby5tYXBwZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICAgICAgICAgILDmyKjJ+cP3o7qxvs7EzqpDU0ROsqnW96G4vM3V+bniobm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIEJZLVNBsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCiAgICAgICAgICAgINStzsTBtL3To7podHRwczovL2Jsb2cuY3Nkbi5uZXQvbGZzZnh5OS9hcnRpY2xlL2RldGFpbHMvMTIyMDEwMzM=</text>
+        <text encoding="base64">aW1wb3J0IGNuLm1vbml0b3I0YWxsLm1pYW9zaGFkYW8uZGFvLlN0b2NrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS42LjI8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhc2VydmljZS5zZXJ2aWNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+ajwvYXJ0aWZhY3RJZD4K</text>
+        <text>import cn.monitor4all.miaoshadao.dao.Stock;
+import cn.monitor4all.miaoshadao.mapper.StockMapper;
+import cn.monitor4all.miaoshadao.utils.CacheKey;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDBsKTsK</text>
+        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhZGFvLmRhbzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcy5zdWJtaXQodGFzayk7CiAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwbCk7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhZGFvLmRhbzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcy5zdWJtaXQoKCkgCg==</text>
+        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhZGFvLmRhbzsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LT4gewogICAgICAgICAgICB3aGlsZSghZGVxdWUuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVxdWUucG9sbCgpICsgIi0iICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhZGFvLmRhbzsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
