@@ -138,8 +138,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/pom.xml" timestamp="1591350674400">
-        <mark key="[" line="28" column="21" />
+      <file name="E:/ideaWorkSpace/seckilling-system/pom.xml" timestamp="1591361632501">
+        <mark key="[" line="38" column="21" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/impl/StockServiceImpl.java" timestamp="1591351788313">
         <mark key="[" line="2" column="0" />
@@ -152,18 +152,14 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/mapper/StockOrderMapper.xml" timestamp="1591351195041">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="41" />
-        <mark key="^" line="40" column="41" />
-        <mark key="." line="40" column="40" />
-      </file>
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/mapper/StockOrderMapper.xml" timestamp="1591353408941" />
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/StockOrder.java" timestamp="1591350877028">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/StockService.java" timestamp="1591351814675" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/mapper/UserMapper.xml" timestamp="1591353374671" />
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/SeckillingApplication.java" timestamp="1591352765052">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="12" />
