@@ -99,10 +99,10 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/mapper/StockOrderMapper.java" timestamp="1591351697962">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/mapper/StockOrderMapper.java" timestamp="1591353266527">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/StockExample.java" timestamp="1591350908431">
         <mark key="[" line="2" column="0" />
@@ -146,7 +146,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/mapper/StockMapper.xml" timestamp="1591352549873">
+      <file name="E:/ideaWorkSpace/seckilling-system/src/main/resources/mapper/StockMapper.xml" timestamp="1591353246567">
         <mark key="[" line="7" column="62" />
         <mark key="]" line="7" column="62" />
         <mark key="^" line="7" column="62" />
@@ -231,8 +231,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -241,27 +241,27 @@
         <text>VARCHAR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLm1vbml0b3I0YWxsLm1pYW9zaGFkYW8uZGFvLlN0b2NrT3JkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHBhY2thZ2UgY24ubW9uaXRvcjRhbGwubWlhb3NoYWRhby5tYXBwZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaWJhdGlzLmFubm90YXRpb25zLlBhcmFtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLm1vbml0b3I0YWxsLm1pYW9zaGFkYW8uZGFvLlN0b2NrOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLm1vbml0b3I0YWxsLm1pYW9zaGFkYW8uZGFvLlN0b2NrT3JkZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhc2VydmljZS5zZXJ2aWNlOwo=</text>
+        <text encoding="base64">cHBhY2thZ2UgY24ubW9uaXRvcjRhbGwubWlhb3NoYWRhby5tYXBwZXI7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNuLm1vbml0b3I0YWxsLm1pYW9zaGFkYW8uZGFvLlN0b2NrOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhc2VydmljZS5zZXJ2aWNlOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text>import cn.monitor4all.miaoshadao.dao.Stock;
 import cn.monitor4all.miaoshadao.mapper.StockMapper;
 import cn.monitor4all.miaoshadao.utils.CacheKey;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhZGFvLmRhbzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhZGFvLmRhbzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">cGFja2FnZSBjbi5tb25pdG9yNGFsbC5taWFvc2hhZGFvLmRhbzsK</text>
