@@ -230,10 +230,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>handsome</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>handsome</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
