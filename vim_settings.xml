@@ -92,6 +92,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/ideaWorkSpace/kafka-demo/src/main/java/cn/kilo/kafka/controller/SendMessageController.java" timestamp="1592016140451">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="40" />
+      </file>
+      <file name="E:/ideaWorkSpace/kafka-demo/src/main/java/cn/kilo/kafka/controller/KafkaMessageListener.java" timestamp="1592016259889">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="36" />
+      </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/impl/StockServiceImpl.java" timestamp="1591351788313">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -129,15 +141,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/Stock.java" timestamp="1591350835688">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/StockOrderExample.java" timestamp="1591350937212">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/ideaWorkSpace/kafka-demo/src/main/java/cn/kilo/kafka/config/KafkaConfig.java" timestamp="1592016041900">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/controller/OrderController.java" timestamp="1591364564097">
         <mark key="[" line="16" column="0" />
@@ -145,6 +158,7 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="14" />
       </file>
+      <file name="E:/ideaWorkSpace/kafka-demo/src/main/java/cn/kilo/kafka/config/KafkaConsumerConfig.java" timestamp="1592016169526" />
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/impl/OrderServiceImpl.java" timestamp="1591364611553">
         <mark key="[" line="16" column="29" />
       </file>
@@ -153,17 +167,16 @@
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/service/OrderService.java" timestamp="1591349824042">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
+      <file name="E:/ideaWorkSpace/kafka-demo/src/main/resources/application.yml" timestamp="1592016276532">
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="2" />
       </file>
       <file name="E:/ideaWorkSpace/seckilling-system/src/main/java/cn/kilog/seckilling/dao/User.java" timestamp="1591350860676">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/ideaWorkSpace/miaosha-master/miaosha-dao/src/main/resources/mapper/StockMapper.xml" timestamp="1591627187955" />
       <file name="E:/ideaWorkSpace/seckilling-system/pom.xml" timestamp="1591417108673">
         <mark key="[" line="38" column="21" />
       </file>
@@ -230,10 +243,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>handsome</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>handsome</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
         <text>VARCHAR</text>
