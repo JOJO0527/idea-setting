@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Staff Label(" />
+      <item value="Staff Info" />
+      <item value="Corp Kit" />
       <item value="dynamic" />
       <item value="Reward" />
       <item value="Refer to" />
@@ -48,14 +51,11 @@
       <item value="Stripped-down" />
       <item value="exchanged" />
       <item value="sensitive" />
-      <item value="encryption" />
-      <item value="volatile" />
-      <item value="eliminate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
