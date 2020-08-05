@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="-AexuLcDND5pPA2qzqhj" />
+          <option name="apiUrl" value="http://gitlab.faidev.cc/" />
+          <option name="repositoryUrl" value="gitlab.faidev.cc" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
