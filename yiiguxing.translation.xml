@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process Set Draw Info For Retention Game" />
       <item value="Retention" />
       <item value="Misc" />
       <item value="comfort" />
@@ -50,12 +51,11 @@
       <item value="successor" />
       <item value="exceeded" />
       <item value="If abrupt, then workerCount wasn't adjusted" />
-      <item value="abrupt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
