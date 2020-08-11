@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Group" />
+      <item value="Prof" />
+      <item value="Export Cav Record" />
+      <item value="Research" />
+      <item value="Research Close" />
       <item value="Behaviour" />
       <item value="process Set Draw Info For Retention Game" />
       <item value="Retention" />
@@ -46,16 +51,11 @@
       <item value="Http Message Not Readable Exception" />
       <item value="Unsatisfied" />
       <item value="Hint: This may be the result of an unspecified view, due to default view name generation." />
-      <item value="Circular" />
-      <item value="leave" />
-      <item value="* CANCELLED: This node is cancelled due to timeout or interrupt. * Nodes never leave this state. In particular, * a thread with cancelled node never again blocks." />
-      <item value="successor" />
-      <item value="exceeded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
