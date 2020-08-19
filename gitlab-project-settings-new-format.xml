@@ -3,7 +3,7 @@
     <option name="gitlabServers">
       <list>
         <GitlabServer>
-          <option name="apiToken" value="-AexuLcDND5pPA2qzqhj" />
+          <option name="apiToken" value="rMsL3qMC6xbSHb6jqEc5" />
           <option name="apiUrl" value="http://gitlab.faidev.cc/" />
           <option name="repositoryUrl" value="gitlab.faidev.cc" />
         </GitlabServer>
