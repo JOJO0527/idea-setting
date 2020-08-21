@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="dev7.faidev.cc" id="985117d6-c63e-4799-afe6-d09248ade880" port="50805" nameFormat="DESCRIPTIVE" username="faier" />
+    </configs>
+  </component>
+</application>
