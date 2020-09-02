@@ -1,0 +1,6 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="QuickList.Deployment">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="RunJsbtTask" />
+</keymap>
