@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="25798433-02f7-4d9f-a92a-b6b6e1218c92" name="ZhuliSvr">
+        <fileTransfer rootFolder="/home/faier" accessType="SFTP" host="dev7.faidev.cc" port="50805" sshConfigId="985117d6-c63e-4799-afe6-d09248ade880" sshConfig="faier@dev7.faidev.cc:50805 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
