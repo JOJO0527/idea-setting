@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Protocol" />
       <item value="Retention Game" />
       <item value="verification" />
       <item value="Temporarily" />
@@ -20,7 +21,6 @@
       <item value="Retention" />
       <item value="Misc" />
       <item value="comfort" />
-      <item value="Protocol" />
       <item value="Lottery" />
       <item value="Staff Label(" />
       <item value="Staff Info" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
