@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Campaign" />
+      <item value="Campaigner" />
       <item value="currency" />
       <item value="add Coup Staff" />
       <item value="Retention" />
@@ -49,13 +51,11 @@
       <item value="full-fledged" />
       <item value="placeholder" />
       <item value="Standalone" />
-      <item value="deprecated" />
-      <item value="parse Claims Jws" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="126" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
