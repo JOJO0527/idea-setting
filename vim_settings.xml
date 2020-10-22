@@ -54,7 +54,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -87,7 +87,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
