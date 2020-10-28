@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether or not default HttpMessageConverter registrations should be added in addition to the ones provided within this element." />
       <item value="Suffix" />
       <item value="Cert" />
       <item value="advance" />
@@ -50,12 +51,11 @@
       <item value="central" />
       <item value="approach" />
       <item value="post-processing" />
-      <item value="alternative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
