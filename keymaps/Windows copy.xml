@@ -1,5 +1,9 @@
 <keymap version="1" name="Windows copy" parent="$default">
   <action id="$TranslateAndReplaceAction" />
+  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateJsonParserToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="ctrl j" />
