@@ -5,11 +5,13 @@
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="EditorJoinLines" />
+  <action id="EditorMatchBrace" />
+  <action id="EditorScrollToCenter" />
   <action id="Git.Stash">
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Git.Unstash">
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="PublishGroup.UploadTo">
@@ -23,11 +25,10 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="RunJsbtTask" />
+  <action id="ScrollTreeToCenter" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
+  <action id="Vcs.ShowMessageHistory" />
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
