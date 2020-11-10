@@ -1,5 +1,6 @@
 <application>
   <component name="ConfigState">
+    <option name="enabled" value="false" />
     <option name="macUUID" value="e3af25f5-fb29-4cc2-9e10-48ef9398306e" />
     <option name="longNum" value="自动" />
   </component>
