@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/IDEAWorkspace" startUpFlag="FIRST" />
     <entry projectPath="D:/IDEAWorkspace/HdImgSvr1" startUpFlag="FIRST" />
     <entry projectPath="D:/IDEAWorkspace/hd-jojok/HdBehaviorSvr" startUpFlag="FIRST" />
     <entry projectPath="D:/IDEAWorkspace/hd-jojok/HdBssStatSvr" startUpFlag="FIRST" />
