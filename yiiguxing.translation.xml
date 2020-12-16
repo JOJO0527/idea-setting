@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1014" />
+    <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="threaten the stability" />
+      <item value="malformed &#10;" />
+      <item value="malformed projects.&#10;[WARNING] &#10;" />
+      <item value="malformed" />
+      <item value="robot List" />
       <item value="primitive" />
       <item value="package" />
       <item value="new Player List" />
@@ -46,11 +54,6 @@
       <item value="Staff Label(" />
       <item value="Staff Info" />
       <item value="Corp Kit" />
-      <item value="dynamic" />
-      <item value="Reward" />
-      <item value="Refer to" />
-      <item value="explicitly" />
-      <item value="merely" />
     </histories>
     <option name="languageScores">
       <map>
