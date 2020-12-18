@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\fai-app-hd [fai-app-hd]'" />
-    <option name="defaultScopeName" value="Directory '...\fai-app-hd [fai-app-hd]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\fai-app-hd [fai-app-hd]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp,*.js</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>

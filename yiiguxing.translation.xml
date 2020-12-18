@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="1014" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="解决&#10;" />
+      <item value="解决" />
+      <item value="profiles" />
       <item value="内存&#10;" />
       <item value="threaten the stability" />
       <item value="malformed &#10;" />
@@ -51,9 +54,6 @@
       <item value="process Set Draw Info For Retention Game" />
       <item value="Misc" />
       <item value="comfort" />
-      <item value="Lottery" />
-      <item value="Staff Label(" />
-      <item value="Staff Info" />
     </histories>
     <option name="languageScores">
       <map>
