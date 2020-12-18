@@ -4,18 +4,35 @@
   <action id="ActivateJsonParserToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="EditorMatchBrace" />
   <action id="EditorScrollToCenter" />
   <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="IdeaVim.ReloadVimRc.reload" />
   <action id="InsertLiveTemplate" />
+  <action id="ParameterInfo" />
   <action id="PublishGroup.UploadTo">
     <keyboard-shortcut first-keystroke="shift ctrl alt x" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />

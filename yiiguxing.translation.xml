@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1014" />
     <option name="newTranslationDialogY" value="788" />
     <histories>
+      <item value="inline" />
+      <item value="add Virtual Player List" />
       <item value="解决&#10;" />
       <item value="解决" />
       <item value="profiles" />
@@ -52,8 +54,6 @@
       <item value="Research Close" />
       <item value="Behaviour" />
       <item value="process Set Draw Info For Retention Game" />
-      <item value="Misc" />
-      <item value="comfort" />
     </histories>
     <option name="languageScores">
       <map>
