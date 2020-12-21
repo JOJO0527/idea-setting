@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="conditional" />
+      <item value="condition" />
+      <item value="lock" />
+      <item value="condition&#10;" />
+      <item value="condi" />
       <item value="recycle Cache" />
       <item value="code Count List" />
       <item value="特性" />
@@ -49,11 +54,6 @@
       <item value="Protocol" />
       <item value="Retention Game" />
       <item value="verification" />
-      <item value="Temporarily" />
-      <item value="Integer" />
-      <item value="immutable" />
-      <item value="Param" />
-      <item value="game Info" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608082281693" />
+    <option name="lastTrimTime" value="1608515973600" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
