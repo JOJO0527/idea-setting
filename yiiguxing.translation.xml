@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="封面" />
+      <item value="cost" />
+      <item value="宣言" />
+      <item value="作品&#10;" />
       <item value="conditional" />
       <item value="condition" />
       <item value="lock" />
@@ -50,10 +54,6 @@
       <item value="Campaigner" />
       <item value="currency" />
       <item value="add Coup Staff" />
-      <item value="Retention" />
-      <item value="Protocol" />
-      <item value="Retention Game" />
-      <item value="verification" />
     </histories>
     <option name="languageScores">
       <map>
