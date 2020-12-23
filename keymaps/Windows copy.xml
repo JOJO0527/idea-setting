@@ -30,6 +30,9 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GsonFormat4DataBinding">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="IdeaVim.ReloadVimRc.reload" />
   <action id="InsertLiveTemplate" />
   <action id="ParameterInfo" />
