@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="eva" />
+      <item value="evaluate" />
+      <item value="evalute&#10;" />
+      <item value="ec" />
+      <item value="e" />
+      <item value="suspend" />
+      <item value="sus" />
       <item value="封面" />
       <item value="cost" />
       <item value="宣言" />
@@ -47,13 +54,6 @@
       <item value="Tuple" />
       <item value="Fissile" />
       <item value="Whether or not default HttpMessageConverter registrations should be added in addition to the ones provided within this element." />
-      <item value="Suffix" />
-      <item value="Cert" />
-      <item value="advance" />
-      <item value="Campaign" />
-      <item value="Campaigner" />
-      <item value="currency" />
-      <item value="add Coup Staff" />
     </histories>
     <option name="languageScores">
       <map>
