@@ -40,7 +40,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="804000" />
     <option name="SELECTION_BACKGROUND" value="622742" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="2f393c" />
+    <option name="TEARLINE_COLOR" value="8d2042" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -169,6 +169,7 @@
       <value>
         <option name="FOREGROUND" value="de1688" />
         <option name="EFFECT_COLOR" value="de1688" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -414,7 +415,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="293134" />
+        <option name="FOREGROUND" value="177f8d" />
         <option name="BACKGROUND" value="e0e2e4" />
       </value>
     </option>
@@ -787,7 +788,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FOREGROUND" value="cb0f17" />
         <option name="BACKGROUND" value="21282d" />
       </value>
     </option>
