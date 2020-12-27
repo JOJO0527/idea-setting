@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="差值" />
+      <item value="左茶" />
       <item value="eva" />
       <item value="evaluate" />
       <item value="evalute&#10;" />
@@ -52,8 +54,6 @@
       <item value="Generate Virtual Player" />
       <item value="extra" />
       <item value="Tuple" />
-      <item value="Fissile" />
-      <item value="Whether or not default HttpMessageConverter registrations should be added in addition to the ones provided within this element." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608515973600" />
+    <option name="lastTrimTime" value="1609035016125" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
