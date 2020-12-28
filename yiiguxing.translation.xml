@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="validation" />
       <item value="一般的" />
       <item value="通用" />
       <item value="增加玩家人数" />
@@ -53,7 +54,6 @@
       <item value="Carouse" />
       <item value="Prize Carouse" />
       <item value="exclude" />
-      <item value="save Invited Record" />
     </histories>
     <option name="languageScores">
       <map>
