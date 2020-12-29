@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="game Id" />
       <item value="validation" />
       <item value="一般的" />
       <item value="通用" />
@@ -53,7 +54,6 @@
       <item value="set Auto Commit" />
       <item value="Carouse" />
       <item value="Prize Carouse" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
