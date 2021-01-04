@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="瓶子" />
+      <item value="return" />
+      <item value="little Button" />
+      <item value="little B" />
+      <item value="little Botton" />
+      <item value="little " />
+      <item value="little" />
+      <item value="littleBotton" />
+      <item value="littleBotton&#10;" />
+      <item value="jojok-dev-littleBotton" />
       <item value="game Id" />
       <item value="validation" />
       <item value="一般的" />
@@ -44,16 +54,6 @@
       <item value="内存&#10;" />
       <item value="threaten the stability" />
       <item value="malformed &#10;" />
-      <item value="malformed projects.&#10;[WARNING] &#10;" />
-      <item value="malformed" />
-      <item value="robot List" />
-      <item value="primitive" />
-      <item value="package" />
-      <item value="new Player List" />
-      <item value="Recursive" />
-      <item value="set Auto Commit" />
-      <item value="Carouse" />
-      <item value="Prize Carouse" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609035016125" />
+    <option name="lastTrimTime" value="1609740425533" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
