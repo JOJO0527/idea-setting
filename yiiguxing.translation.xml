@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="inline" />
       <item value="judge whether need" />
       <item value="瓶子" />
       <item value="return" />
@@ -47,7 +48,6 @@
       <item value="future" />
       <item value="get Count Count Ke" />
       <item value="get Count Count Key" />
-      <item value="inline" />
       <item value="add Virtual Player List" />
       <item value="解决&#10;" />
       <item value="解决" />
