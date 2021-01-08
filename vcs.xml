@@ -214,6 +214,22 @@
           <option name="url" value="http://gitlab.faidev.cc/hd/HdGlobalSvr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.faidev.cc/hd/HdWxUserSvr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.faidev.cc/hd/HdVerificationCodeSvr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.faidev.cc/hd/HdStatSvr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.faidev.cc/hd/HdStaffSvr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IDEAWorkspace\hd-jojok" />
