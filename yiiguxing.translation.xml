@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Codecount List" />
       <item value="inline" />
       <item value="judge whether need" />
       <item value="瓶子" />
@@ -53,12 +54,11 @@
       <item value="解决" />
       <item value="profiles" />
       <item value="内存&#10;" />
-      <item value="threaten the stability" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609740425533" />
+    <option name="lastTrimTime" value="1610345552064" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
