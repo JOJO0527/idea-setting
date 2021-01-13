@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Ware" />
       <item value="Codecount List" />
       <item value="inline" />
       <item value="judge whether need" />
@@ -53,12 +54,12 @@
       <item value="解决&#10;" />
       <item value="解决" />
       <item value="profiles" />
-      <item value="内存&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
+        <entry key="CHINESE" value="142" />
         <entry key="ENGLISH" value="142" />
+        <entry key="GERMAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
