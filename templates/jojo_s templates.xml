@@ -10,9 +10,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="Ls" value="Log.logStd();" description="Log.logStd" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="Ls" value="Log.logStd();" description="Log.logStd" toReformat="false" toShortenFQNames="true" />
   <template name="Ld" value="Log.logDbg();" description="Log.logDbg" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
