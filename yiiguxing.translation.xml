@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="populate" />
+      <item value="disposable" />
+      <item value="Disposable" />
       <item value="Ware" />
       <item value="Codecount List" />
       <item value="inline" />
@@ -51,14 +54,11 @@
       <item value="get Count Count Ke" />
       <item value="get Count Count Key" />
       <item value="add Virtual Player List" />
-      <item value="解决&#10;" />
-      <item value="解决" />
-      <item value="profiles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="GERMAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610345552064" />
+    <option name="lastTrimTime" value="1610779296850" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
