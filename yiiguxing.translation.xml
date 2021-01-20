@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="分开" />
       <item value="populate" />
       <item value="disposable" />
       <item value="Disposable" />
@@ -53,7 +54,6 @@
       <item value="future" />
       <item value="get Count Count Ke" />
       <item value="get Count Count Key" />
-      <item value="add Virtual Player List" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,8 +68,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1610779296850" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
