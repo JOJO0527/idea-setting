@@ -50,6 +50,9 @@
   <action id="ScrollTreeToCenter" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
   <action id="Vcs.ShowMessageHistory" />
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
