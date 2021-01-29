@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Refund" />
       <item value="Draw" />
       <item value="assigning" />
       <item value="associate" />
@@ -53,12 +54,11 @@
       <item value="ec" />
       <item value="e" />
       <item value="suspend" />
-      <item value="sus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="GERMAN" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
