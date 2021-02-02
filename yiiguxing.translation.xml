@@ -1,9 +1,21 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="candidates" />
+      <item value="contract" />
+      <item value="programmatic" />
+      <item value="infrastructure" />
+      <item value="heavily" />
+      <item value="demand" />
+      <item value="expose" />
+      <item value="individual" />
+      <item value="Synthetic" />
+      <item value="transfor" />
+      <item value="transform" />
+      <item value="运输" />
       <item value="Refund" />
       <item value="Draw" />
       <item value="assigning" />
@@ -42,23 +54,11 @@
       <item value="littleBotton&#10;" />
       <item value="jojok-dev-littleBotton" />
       <item value="game Id" />
-      <item value="validation" />
-      <item value="一般的" />
-      <item value="通用" />
-      <item value="增加玩家人数" />
-      <item value="差值" />
-      <item value="左茶" />
-      <item value="eva" />
-      <item value="evaluate" />
-      <item value="evalute&#10;" />
-      <item value="ec" />
-      <item value="e" />
-      <item value="suspend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="GERMAN" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611655401100" />
+    <option name="lastTrimTime" value="1612149117091" />
   </component>
 </application>
