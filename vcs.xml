@@ -254,9 +254,13 @@
           <option name="url" value="https://github.com.cnpmjs.org/spring-projects/spring-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.faidev.cc/hd/HdTokenSvr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IDEAWorkspace" />
+    <option name="cloneParentDir" value="D:\IDEAWorkspace\hd-jojok" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
