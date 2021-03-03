@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Candidate" />
+      <item value="Shortcut" />
       <item value="whoever" />
       <item value="地址" />
       <item value="发生" />
@@ -52,13 +54,11 @@
       <item value="Rotation" />
       <item value="get In Rotation List" />
       <item value="Ware" />
-      <item value="Compensate" />
-      <item value="分开" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="GERMAN" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
