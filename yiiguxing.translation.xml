@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="倍数" />
+      <item value="杯数" />
       <item value="Candidate" />
       <item value="Shortcut" />
       <item value="whoever" />
@@ -52,8 +54,6 @@
       <item value="version" />
       <item value="Suffix" />
       <item value="Rotation" />
-      <item value="get In Rotation List" />
-      <item value="Ware" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614672731351" />
+    <option name="lastTrimTime" value="1615258154617" />
   </component>
 </application>
