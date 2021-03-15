@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="新增" />
       <item value="trade" />
       <item value="trad" />
       <item value="purchasers" />
@@ -53,7 +54,6 @@
       <item value="Rotation List" />
       <item value="More 2 More" />
       <item value="Used undeclared dependencies" />
-      <item value="Unused declared dependencies" />
     </histories>
     <option name="languageScores">
       <map>
