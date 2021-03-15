@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="trade" />
+      <item value="trad" />
       <item value="purchasers" />
       <item value="购买人数" />
       <item value="狗吗人数" />
@@ -52,8 +54,6 @@
       <item value="More 2 More" />
       <item value="Used undeclared dependencies" />
       <item value="Unused declared dependencies" />
-      <item value="encountered" />
-      <item value="current Time Millis" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615258154617" />
+    <option name="lastTrimTime" value="1615787639131" />
   </component>
 </application>
