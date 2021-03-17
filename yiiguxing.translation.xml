@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="encode" />
+      <item value="codece" />
+      <item value="codec" />
+      <item value="codeo" />
+      <item value="code" />
+      <item value="encod" />
       <item value="elements are considered valid" />
       <item value="considered" />
       <item value="新增" />
@@ -48,12 +54,6 @@
       <item value="transform" />
       <item value="运输" />
       <item value="Refund" />
-      <item value="Draw" />
-      <item value="assigning" />
-      <item value="associate" />
-      <item value="counterparts" />
-      <item value="扩大" />
-      <item value="Rotation List" />
     </histories>
     <option name="languageScores">
       <map>
