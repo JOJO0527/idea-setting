@@ -4,7 +4,6 @@
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Time" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="Le" value="Log.logerr();" description="Log.logerr" toReformat="false" toShortenFQNames="true">
     <context>
