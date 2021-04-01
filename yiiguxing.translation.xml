@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="补全" />
       <item value="去重" />
       <item value="event type are neither subscribe or scan" />
       <item value="event type neither subscribe or scan" />
@@ -53,7 +54,6 @@
       <item value="contract" />
       <item value="programmatic" />
       <item value="infrastructure" />
-      <item value="heavily" />
     </histories>
     <option name="languageScores">
       <map>
