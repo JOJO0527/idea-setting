@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="modify from 500 to 499" />
+      <item value="modify " />
       <item value="suffix" />
       <item value="e.g" />
       <item value="e.x" />
@@ -52,8 +54,6 @@
       <item value="At this point we know that the registration was complete and successful." />
       <item value="registration" />
       <item value="Verification" />
-      <item value="obtain" />
-      <item value="ob" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617702488090" />
+    <option name="lastTrimTime" value="1618194818786" />
   </component>
 </application>
