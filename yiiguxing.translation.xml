@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="criteria" />
+      <item value="Temporal" />
       <item value="统计" />
       <item value="corresponding" />
       <item value="resolution will not be reattempted until the update interval of nexus-id has elapsed or updates are forced" />
@@ -52,13 +54,11 @@
       <item value="whoever" />
       <item value="地址" />
       <item value="发生" />
-      <item value="描述" />
-      <item value="调整" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="CATALAN" value="1" />
