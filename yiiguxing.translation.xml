@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="As of 4.3, we're processing Errors thrown from handler methods as well, making them available for @ExceptionHandler methods and other scenarios." />
       <item value="interoperable" />
       <item value="and there is &lt;em&gt;not&lt;em&gt; any support for locking the entire table in a way that prevents all access" />
       <item value="retrieval operations do &lt;em&gt;not&lt;em&gt; entail locking" />
@@ -53,12 +54,11 @@
       <item value="code" />
       <item value="encod" />
       <item value="elements are considered valid" />
-      <item value="considered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="CATALAN" value="1" />
