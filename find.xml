@@ -3,10 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp,*.js" />
     <mask>pom.xml</mask>
     <mask>*.conf</mask>
-    <mask>*.jsp,*.js</mask>
     <mask>*.java</mask>
     <mask>*.java, *.inc</mask>
+    <mask>*.jsp,*.js</mask>
   </component>
 </application>
