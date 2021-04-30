@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Delegates" />
       <item value="internal" />
       <item value="character" />
       <item value="Writes a sub array as a sequence of bytes." />
@@ -53,7 +54,6 @@
       <item value="e" />
       <item value="Subscription" />
       <item value="subscription Redeem" />
-      <item value="兑奖" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619258289416" />
+    <option name="lastTrimTime" value="1619752587873" />
   </component>
 </application>
