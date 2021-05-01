@@ -1,0 +1,31 @@
+<templateSet group="jojo's templates">
+  <template name="/**" value="/**&#10;* @program: $PROJECT_NAME$&#10;* @params: $params$&#10;* @description: $description$&#10;*&#10;* @author: JOJOK&#10;*&#10;* @create: $Time$&#10;**/" shortcut="ENTER" description="方法描述" toReformat="false" toShortenFQNames="true">
+    <variable name="PROJECT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Time" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="Le" value="Log.logerr();" description="Log.logerr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="Ls" value="Log.logStd();" description="Log.logStd" toReformat="false" toShortenFQNames="true" />
+  <template name="Ld" value="Log.logDbg();" description="Log.logDbg" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hj" value="HdAssert.judgeNotLog(" description="HdAssert.judgeNotLog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="hs" value="HdAssert.isEmpty(" description="HdAssert.judgeNotLog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>
