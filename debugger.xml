@@ -1,6 +1,8 @@
 <application>
   <component name="DebuggerSettings">
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="ALWAYS_SMART_STEP_INTO" value="false" />
+    <option name="SKIP_GETTERS" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="false" />
     <option name="EVALUATE_FINALLY_ON_POP_FRAME" value="EvaluateFinallyAlways" />
@@ -11,7 +13,7 @@
     </filter>
     <filter>
       <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
