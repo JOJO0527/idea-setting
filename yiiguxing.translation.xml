@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="signal" />
+      <item value="Non-negative" />
       <item value="successor" />
       <item value="volatile" />
       <item value="A possible way for the JVM to improve the execution context for methods with this annotation is to reserve part of the thread's execution stack for them. Access to this section of the stack would be denied by default but could be granted if the JVM detects a possible stack overflow and the thread's call stack includes at least one annotated method. Even if access to this reserved area has been granted, the JVM might decide to throw a delayed StackOverflowError when the thread exits the annotated method." />
@@ -52,8 +54,6 @@
       <item value="subscription Reemo" />
       <item value="公众号" />
       <item value="补全" />
-      <item value="去重" />
-      <item value="event type are neither subscribe or scan" />
     </histories>
     <option name="languageScores">
       <map>
