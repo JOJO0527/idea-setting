@@ -22,6 +22,16 @@
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="ALIBABA_CLOUD_REMOTE_DEBUG_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Alibaba Cloud Remote Debug" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="ALIBABA_MICROSERVICE_CONTAINER_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Alibaba Microservice Container" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -79,7 +89,7 @@
                   </entry>
                   <entry key="EDAS_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="EDAS on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                      <FeaturePluginData displayName="EDAS on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
                   <entry key="EDAS_SERVERLESS_RUN_CONFIGURATION">
