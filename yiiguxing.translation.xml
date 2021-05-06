@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="considered" />
+      <item value="0 is considered as an invalid value" />
+      <item value="positive" />
+      <item value="strictly" />
+      <item value="审核" />
       <item value="Delegates" />
       <item value="internal" />
       <item value="character" />
@@ -49,11 +54,6 @@
       <item value="modify from 500 to 499" />
       <item value="modify " />
       <item value="suffix" />
-      <item value="e.g" />
-      <item value="e.x" />
-      <item value="e" />
-      <item value="Subscription" />
-      <item value="subscription Redeem" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619752587873" />
+    <option name="lastTrimTime" value="1620270436092" />
   </component>
 </application>
