@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Constraints" />
+      <item value="Bean Validation 1.1 close() method available?" />
+      <item value="Inner class to avoid a hard-coded Hibernate Validator 4.3 dependency." />
       <item value="Resolvers" />
       <item value="Provided" />
       <item value="convert" />
@@ -51,9 +54,6 @@
       <item value="Temporal" />
       <item value="统计" />
       <item value="corresponding" />
-      <item value="resolution will not be reattempted until the update interval of nexus-id has elapsed or updates are forced" />
-      <item value="has Authorized" />
-      <item value="hasAuthorized" />
     </histories>
     <option name="languageScores">
       <map>
