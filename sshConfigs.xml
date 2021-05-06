@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev7.faidev.cc" id="985117d6-c63e-4799-afe6-d09248ade880" port="50805" nameFormat="DESCRIPTIVE" username="faier" />
-      <sshConfig host="172.16.3.116" id="951c5214-d551-44e3-b2e4-5eb896511697" keyPath="C:\Users\faisco\Desktop\jojok-jumpserver (1).pem" port="2222" nameFormat="DESCRIPTIVE" username="jojok" />
+      <sshConfig host="172.16.3.116" id="951c5214-d551-44e3-b2e4-5eb896511697" keyPath="C:\Users\faisco\Desktop\jojok-jumpserver.pem" port="2222" nameFormat="DESCRIPTIVE" username="jojok" />
     </configs>
   </component>
 </application>
