@@ -3,7 +3,28 @@
     <option name="newTranslationDialogWidth" value="550" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="saturated" />
+      <item value="A bounded queue (for example, an {@link ArrayBlockingQueue}) helps prevent resource exhaustion when used with finite maximumPoolSizes, but can be more difficult to tune and control. Queue sizes and maximum pool sizes may be traded off for each other: Using large queues and small pools minimizes CPU usage, OS resources, and context-switching overhead, but can lead to artificially low throughput. If tasks frequently block (for example if they are IO bound), a system may be able to schedule time for more threads than you otherwise allow. Use of small queues generally requires larger pool sizes, which keeps CPUs busier but may encounter unacceptable scheduling overhead, which also decreases throughput." />
+      <item value="otherwise" />
+      <item value="artificially" />
+      <item value="traded off" />
+      <item value="tune" />
+      <item value="but can be more difficult to tune and control" />
+      <item value="finite" />
+      <item value="exhaustion" />
+      <item value="appropriate" />
+      <item value="average" />
+      <item value="This may be appropriate when each task is completely independent of others, so tasks cannot affect each others execution; for example, in a web page server. While this style of queuing can be useful in smoothing out transient bursts of requests, it admits the possibility of unbounded work queue growth when commands continue to arrive on average faster than they can be processed." />
+      <item value="&lt;li&gt; &lt;em&gt; Direct handoffs.&lt;em&gt; A good default choice for a work queue is a {@link SynchronousQueue} that hands off tasks to threads without otherwise holding them. Here, an attempt to queue a task will fail if no threads are immediately available to run it, so a new thread will be constructed. This policy avoids lockups when handling sets of requests that might have internal dependencies. Direct handoffs generally require unbounded maximumPoolSizes to avoid rejection of new submitted tasks. This in turn admits the possibility of unbounded thread growth when commands continue to arrive on average faster than they can be processed." />
+      <item value="avoid" />
+      <item value="Direct handoffs" />
+      <item value="handoffs" />
+      <item value="general" />
+      <item value="If a request cannot be queued, a new thread is created unless this would exceed maximumPoolSize, in which case, the task will be rejected" />
+      <item value="If fewer than corePoolSize threads are running, the Executor always prefers adding a new thread rather than queuing" />
+      <item value="If corePoolSize or more threads are running, the Executor always prefers queuing a request rather than adding a new thread." />
       <item value="Constraints" />
       <item value="Bean Validation 1.1 close() method available?" />
       <item value="Inner class to avoid a hard-coded Hibernate Validator 4.3 dependency." />
@@ -34,31 +55,11 @@
       <item value="Determine" />
       <item value="Do we need view name translation?" />
       <item value="trigger" />
-      <item value="Abstract adapter class for the {@link AsyncHandlerInterceptor} interface, for simplified implementation of pre-onlypost-only interceptors." />
-      <item value="As of 4.3, we're processing Errors thrown from handler methods as well, making them available for @ExceptionHandler methods and other scenarios." />
-      <item value="interoperable" />
-      <item value="and there is &lt;em&gt;not&lt;em&gt; any support for locking the entire table in a way that prevents all access" />
-      <item value="retrieval operations do &lt;em&gt;not&lt;em&gt; entail locking" />
-      <item value="entail locking" />
-      <item value="retrieval operations" />
-      <item value="A hash table supporting full concurrency of retrievals and high expected concurrency for updates. This class obeys the same functional specification as {@link java.util.Hashtable}, and includes versions of methods corresponding to each method of {@code Hashtable}. However, even though all operations are thread-safe, retrieval operations do &lt;em&gt;not&lt;em&gt; entail locking, and there is &lt;em&gt;not&lt;em&gt; any support for locking the entire table in a way that prevents all access. This class is fully interoperable with {@code Hashtable} in programs that rely on its thread safety but not on its synchronization details." />
-      <item value="Unsafe mechanics" />
-      <item value="mechanics" />
-      <item value="put If Absent" />
-      <item value="uncontended" />
-      <item value="Adds to count, and if table is too small and not already resizing, initiates transfer. If already resizing, helps perform transfer if work is available. Rechecks occupancy after a transfer to see if another resize is already needed because resizings are lagging additions." />
-      <item value="Table of counter cells. When non-null, size is a power of 2." />
-      <item value="contention" />
-      <item value="size is a power of 2" />
-      <item value="criteria" />
-      <item value="Temporal" />
-      <item value="统计" />
-      <item value="corresponding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="GALICIAN" value="1" />
