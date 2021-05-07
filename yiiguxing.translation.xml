@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="In either case" />
       <item value="saturated" />
       <item value="A bounded queue (for example, an {@link ArrayBlockingQueue}) helps prevent resource exhaustion when used with finite maximumPoolSizes, but can be more difficult to tune and control. Queue sizes and maximum pool sizes may be traded off for each other: Using large queues and small pools minimizes CPU usage, OS resources, and context-switching overhead, but can lead to artificially low throughput. If tasks frequently block (for example if they are IO bound), a system may be able to schedule time for more threads than you otherwise allow. Use of small queues generally requires larger pool sizes, which keeps CPUs busier but may encounter unacceptable scheduling overhead, which also decreases throughput." />
       <item value="otherwise" />
@@ -54,12 +55,11 @@
       <item value="last-modified" />
       <item value="Determine" />
       <item value="Do we need view name translation?" />
-      <item value="trigger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="GALICIAN" value="1" />
