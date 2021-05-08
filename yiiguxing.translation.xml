@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt;The returned map preserves the order of the entries from" />
       <item value="The command is exactly equivalent to the following group of commands:" />
       <item value="Abstract base class for reference objects. This class defines the operations common to all reference objects. Because reference objects are implemented in close cooperation with the garbage collector, this class may not be subclassed directly." />
       <item value="Enqueued" />
@@ -54,12 +55,11 @@
       <item value="无视" />
       <item value="五十" />
       <item value="remove useless field for frontend" />
-      <item value="bizarrely" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="GALICIAN" value="1" />
