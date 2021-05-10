@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="以下" />
       <item value="attachment" />
       <item value="&lt;p&gt;The returned map preserves the order of the entries from" />
       <item value="The command is exactly equivalent to the following group of commands:" />
@@ -54,7 +55,6 @@
       <item value="associated" />
       <item value="descriptor" />
       <item value="无视" />
-      <item value="五十" />
     </histories>
     <option name="languageScores">
       <map>
