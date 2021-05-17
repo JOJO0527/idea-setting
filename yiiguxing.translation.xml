@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="核销" />
       <item value="reduant" />
       <item value="redu" />
       <item value="fluent" />
@@ -54,7 +55,6 @@
       <item value="character" />
       <item value="Writes a sub array as a sequence of bytes." />
       <item value="Force all system buffers to synchronize with the underlying device. This method returns after all modified data and attributes of this FileDescriptor have been written to the relevant device(s). In particular, if this FileDescriptor refers to a physical storage medium, such as a file in a file system, sync will not return until all in-memory modified copies of buffers associated with this FileDesecriptor have been written to the physical medium." />
-      <item value="Forces any changes made to this buffer's content to be written to the storage device containing the mapped file." />
     </histories>
     <option name="languageScores">
       <map>
