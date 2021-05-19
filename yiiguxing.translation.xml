@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="搬运&#10;" />
       <item value="关系&#10;" />
       <item value="关系" />
       <item value="evaluated" />
@@ -54,7 +55,6 @@
       <item value="strictly" />
       <item value="审核" />
       <item value="Delegates" />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620958800575" />
+    <option name="lastTrimTime" value="1621393410489" />
   </component>
 </application>
