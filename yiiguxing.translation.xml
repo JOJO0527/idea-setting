@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="incompatible" />
+      <item value="incom" />
       <item value="ware" />
       <item value="wareOrder&#10;" />
       <item value="wareOrder" />
@@ -53,12 +55,10 @@
       <item value="Provided" />
       <item value="convert" />
       <item value="Invoked after a value is resolved." />
-      <item value="considered" />
-      <item value="0 is considered as an invalid value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
+        <entry key="CHINESE" value="259" />
         <entry key="ENGLISH" value="257" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
