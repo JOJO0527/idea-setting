@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Write Off" />
       <item value="Legal" />
       <item value="relative" />
       <item value="incompatible" />
@@ -54,12 +55,11 @@
       <item value="Bean Validation 1.1 close() method available?" />
       <item value="Inner class to avoid a hard-coded Hibernate Validator 4.3 dependency." />
       <item value="Resolvers" />
-      <item value="Provided" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="GALICIAN" value="1" />
