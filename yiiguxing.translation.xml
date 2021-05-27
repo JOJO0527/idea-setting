@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sercet" />
       <item value="discard" />
       <item value="discar" />
       <item value="dis" />
@@ -54,11 +55,10 @@
       <item value="If a request cannot be queued, a new thread is created unless this would exceed maximumPoolSize, in which case, the task will be rejected" />
       <item value="If fewer than corePoolSize threads are running, the Executor always prefers adding a new thread rather than queuing" />
       <item value="If corePoolSize or more threads are running, the Executor always prefers queuing a request rather than adding a new thread." />
-      <item value="Constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
+        <entry key="CHINESE" value="262" />
         <entry key="ENGLISH" value="259" />
         <entry key="GERMAN" value="2" />
         <entry key="GUJARATI" value="1" />
