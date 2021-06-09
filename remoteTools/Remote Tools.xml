@@ -1,0 +1,9 @@
+<toolSet name="Remote Tools">
+  <tool name="hdportal " showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="/home/faier/dev-git/jojok/jojokworkplace/start.sh" />
+      <option name="PARAMETERS" value="hdportal " />
+      <option name="WORKING_DIRECTORY" value="/home/faier" />
+    </exec>
+  </tool>
+</toolSet>
