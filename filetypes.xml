@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.gitignore;*.idea;*.iml;*.mvn;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="" />
     <extensionMap>
       <mapping ext="inc" type="JSP" />
       <mapping ext="space.kts" type="Kotlin" />
