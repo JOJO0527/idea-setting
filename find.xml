@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java, *.inc" />
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.jsp,*.js</mask>
-    <mask>*.java, *.inc</mask>
     <mask>pom.xml</mask>
+    <mask>*.java, *.inc</mask>
   </component>
 </application>
