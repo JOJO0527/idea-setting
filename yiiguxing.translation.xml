@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="RENEGADE" />
       <item value="Validation" />
       <item value="Validator" />
       <item value="compatible" />
@@ -54,11 +55,10 @@
       <item value="搬运&#10;" />
       <item value="关系&#10;" />
       <item value="关系" />
-      <item value="evaluated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
+        <entry key="CHINESE" value="288" />
         <entry key="ENGLISH" value="288" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623729506373" />
+    <option name="lastTrimTime" value="1624354281597" />
   </component>
 </application>
