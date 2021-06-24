@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sentinel" />
+      <item value="sentry" />
       <item value="ay also indicate that a class is a &quot;Business Service Facade&quot; (in the Core J2EE patterns sense), or something similar. This annotation is a general-purpose stereotype and individual teams may narrow their semantics and use as appropriate." />
       <item value="encapsulated" />
       <item value="originally" />
@@ -53,13 +55,11 @@
       <item value="incom" />
       <item value="ware" />
       <item value="wareOrder&#10;" />
-      <item value="wareOrder" />
-      <item value="delimiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
