@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invitation Record" />
       <item value="原型" />
       <item value="Qualifier" />
       <item value="willn't" />
@@ -54,12 +55,11 @@
       <item value="primitive" />
       <item value="compatible with the accumulator function" />
       <item value="associative" />
-      <item value="equivalent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
