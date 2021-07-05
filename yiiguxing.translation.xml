@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="544" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="原型" />
       <item value="Qualifier" />
       <item value="willn't" />
       <item value="willn;t" />
@@ -54,7 +55,6 @@
       <item value="compatible with the accumulator function" />
       <item value="associative" />
       <item value="equivalent" />
-      <item value="unmodifiable" />
     </histories>
     <option name="languageScores">
       <map>
