@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="663" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Qualifier" />
       <item value="willn't" />
       <item value="willn;t" />
       <item value="willnt" />
@@ -54,12 +55,11 @@
       <item value="associative" />
       <item value="equivalent" />
       <item value="unmodifiable" />
-      <item value="Rewinds this buffer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624931688036" />
+    <option name="lastTrimTime" value="1625452592840" />
   </component>
 </application>
