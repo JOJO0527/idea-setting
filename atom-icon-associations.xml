@@ -1,0 +1,15 @@
+<application>
+  <component name="Atom Icon Associations Config">
+    <option name="customFolderAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value="^(entity?)$" />
+            <option name="pattern" value="^(entity?)$" />
+            <option name="name" value="entity" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+  </component>
+</application>
