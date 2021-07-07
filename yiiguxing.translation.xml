@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Facade" />
+      <item value="Whitespace" />
       <item value="Itinerary" />
       <item value="It is uniquely identified by a UN Locode." />
       <item value="sequence" />
@@ -52,13 +54,11 @@
       <item value="verif" />
       <item value="fill Cache Inneed" />
       <item value="fill Cache Ineed" />
-      <item value="fill Cache In Used" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
