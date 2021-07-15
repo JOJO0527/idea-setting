@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="attachments" />
       <item value="生成" />
       <item value="Corp" />
       <item value="Fail" />
@@ -53,12 +54,11 @@
       <item value="current" />
       <item value="Invariants" />
       <item value="Recursive invariant check" />
-      <item value="Red-black tree methods, all adapted from CLR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
