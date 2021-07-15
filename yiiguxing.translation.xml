@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="生成" />
       <item value="Corp" />
       <item value="Fail" />
       <item value="unused" />
@@ -53,7 +54,6 @@
       <item value="Invariants" />
       <item value="Recursive invariant check" />
       <item value="Red-black tree methods, all adapted from CLR" />
-      <item value="rotate" />
     </histories>
     <option name="languageScores">
       <map>
