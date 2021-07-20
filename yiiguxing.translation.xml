@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="invitePlayer" />
+      <item value="invitedPlayer" />
       <item value="locale" />
       <item value="Handles cargo booking and routing. Operates against a dedicated remoting service facade, and could easily be rewritten as a thick Swing client. Completely separated from the domain layer, unlike the tracking user interface. &lt;p&gt; In order to successfully keep the domain model shielded from user interface considerations, this approach is generally preferred to the one taken in the tracking controller. However, there is never any one perfect solution for all situations, so we've chosen to demonstrate two polarized ways to build user interfaces." />
       <item value="dedicated" />
@@ -52,12 +54,10 @@
       <item value="Qualifier" />
       <item value="willn't" />
       <item value="willn;t" />
-      <item value="willnt" />
-      <item value="will nt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
+        <entry key="CHINESE" value="338" />
         <entry key="ENGLISH" value="336" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626084439885" />
+    <option name="lastTrimTime" value="1626765723536" />
   </component>
 </application>
