@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Thaw" />
       <item value="delimiter" />
       <item value="This inspection only reports when the suggested replacement does not result in significant performance drawback on modern JVMs. In many cases the String concatenation may perform better." />
       <item value="裂变红包" />
@@ -53,12 +54,11 @@
       <item value="writeOffRecord" />
       <item value="stereotype" />
       <item value="smzq" />
-      <item value="sm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626765723536" />
+    <option name="lastTrimTime" value="1627279818370" />
   </component>
 </application>
