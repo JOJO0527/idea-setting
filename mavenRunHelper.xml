@@ -43,6 +43,9 @@
             <Goal>
               <option name="commandLine" value="-Dexectue=n clean install" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -U" />
+            </Goal>
           </list>
         </option>
       </Goals>
