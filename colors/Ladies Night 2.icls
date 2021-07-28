@@ -33,6 +33,7 @@
     <option name="GUTTER_BACKGROUND" value="293134" />
     <option name="INDENT_GUIDE" value="802947" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
+    <option name="LOOKUP_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -170,7 +171,6 @@
       <value>
         <option name="FOREGROUND" value="de1688" />
         <option name="EFFECT_COLOR" value="de1688" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
