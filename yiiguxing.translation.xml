@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="newly" />
+      <item value="new " />
       <item value="Thaw" />
       <item value="delimiter" />
       <item value="This inspection only reports when the suggested replacement does not result in significant performance drawback on modern JVMs. In many cases the String concatenation may perform better." />
@@ -52,12 +54,10 @@
       <item value="experi" />
       <item value="exp" />
       <item value="writeOffRecord" />
-      <item value="stereotype" />
-      <item value="smzq" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
+        <entry key="CHINESE" value="343" />
         <entry key="ENGLISH" value="337" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
