@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="532" />
+    <option name="newTranslationDialogWidth" value="530" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="邀请者" />
       <item value="newly" />
       <item value="new " />
       <item value="Thaw" />
@@ -53,7 +54,6 @@
       <item value="experim" />
       <item value="experi" />
       <item value="exp" />
-      <item value="writeOffRecord" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627279818370" />
+    <option name="lastTrimTime" value="1627895957116" />
   </component>
 </application>
