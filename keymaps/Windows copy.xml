@@ -9,6 +9,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Compile" />
   <action id="EditorJoinLines" />
   <action id="EditorMatchBrace" />
   <action id="EditorScrollToCenter" />
