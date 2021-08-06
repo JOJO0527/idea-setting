@@ -15,6 +15,7 @@
   <action id="EditorJoinLines" />
   <action id="EditorMatchBrace" />
   <action id="EditorScrollToCenter" />
+  <action id="EditorToggleCase" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -67,5 +68,9 @@
   <action id="XPathView.Actions.ShowPath" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
 </keymap>
