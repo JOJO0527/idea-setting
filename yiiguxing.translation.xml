@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Should be used at package level in association with {@link Nullable} annotations at parameter and return value level." />
       <item value="Malformed argument has embedded quote: -Djava.endorsed.dirs=\&quot;\&quot;" />
       <item value="Default typically equals {@link NO}, unless a different default has been configured at the component-scan instruction level." />
       <item value="Configure the behaviour of how this member is treated in the {@code equals} and {@code hashCode} implementation; if on a method, include the method's return value as part of calculating hashCodeequality." />
@@ -53,12 +54,11 @@
       <item value="received Handling Event Registration Attempt" />
       <item value="A cargo has arrived at its final destination" />
       <item value="A cargo has been misdirected" />
-      <item value="misdirected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
