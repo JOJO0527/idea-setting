@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Burry" />
       <item value="A container for settings for the generation of getters and setters. &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesexperimentalAccessors&quot;&gt;the project lombok features page for &amp;64;Accessors&lt;a&gt;. &lt;p&gt; Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, such as {@link lombok.Setter} or {@link lombok.Data} is also required." />
       <item value="Use {@code var} as the type of any local variable declaration (even in a {@code for} statement), and the type will be inferred from the initializing expression (any further assignments to the variable are not involved in this type inference). &lt;p&gt; For example: {@code var x = 10.0;} will infer {@code double}, and {@code var y = new ArrayList&lt;String&gt;();} will infer {@code ArrayList&lt;String&gt;}. &lt;p&gt; Note that this is an annotation type because {@code var x = 10;} will be desugared to {@code @var int x = 10;} &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesvar&quot;&gt;the project lombok features page for &amp;64;var&lt;a&gt;." />
       <item value="Lombok will eventually automatically add this annotation to all generated constructors, methods, fields, and types. You can mark the presence of this annotation as 'ignore it' for all code style and bug finding tools. &lt;p&gt; NB: As of v1.16.2 which introduces this annotation, lombok doesn't actually add this annotation; we're setting it up so that lombok jars in widespread use start having this, which will make it easier to actually apply it later on. By adding {@code lombok.addLombokGeneratedAnnotation = true} to {@code lombok.config} you can already get this behavior." />
@@ -53,11 +54,10 @@
       <item value="attachments" />
       <item value="生成" />
       <item value="Corp" />
-      <item value="Fail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
+        <entry key="CHINESE" value="355" />
         <entry key="ENGLISH" value="355" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -65,6 +65,7 @@
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="WELSH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
