@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Set the Caffeine to use for building each individual" />
       <item value="Construct a static CaffeineCacheManager, managing caches for the specified cache names only." />
       <item value="Set the Caffeine cache specification String to use for building each individual {@link CaffeineCache} instance. The given value needs to comply with Caffeine's {@link CaffeineSpec} (see its javadoc)." />
       <item value="Whether all the entries inside the cache(s) are removed. &lt;p&gt;By default, only the value under the associated key is removed. &lt;p&gt;Note that setting this parameter to {@code true} and specifying a {@link key} is not allowed." />
@@ -53,12 +54,11 @@
       <item value="Handles cargo booking and routing. Operates against a dedicated remoting service facade, and could easily be rewritten as a thick Swing client. Completely separated from the domain layer, unlike the tracking user interface. &lt;p&gt; In order to successfully keep the domain model shielded from user interface considerations, this approach is generally preferred to the one taken in the tracking controller. However, there is never any one perfect solution for all situations, so we've chosen to demonstrate two polarized ways to build user interfaces." />
       <item value="dedicated" />
       <item value="against" />
-      <item value="attempt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
