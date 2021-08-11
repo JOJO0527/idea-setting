@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="530" />
+    <option name="newTranslationDialogWidth" value="526" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="分离" />
+      <item value="f" />
+      <item value="额外" />
       <item value="Burry" />
       <item value="A container for settings for the generation of getters and setters. &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesexperimentalAccessors&quot;&gt;the project lombok features page for &amp;64;Accessors&lt;a&gt;. &lt;p&gt; Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, such as {@link lombok.Setter} or {@link lombok.Data} is also required." />
       <item value="Use {@code var} as the type of any local variable declaration (even in a {@code for} statement), and the type will be inferred from the initializing expression (any further assignments to the variable are not involved in this type inference). &lt;p&gt; For example: {@code var x = 10.0;} will infer {@code double}, and {@code var y = new ArrayList&lt;String&gt;();} will infer {@code ArrayList&lt;String&gt;}. &lt;p&gt; Note that this is an annotation type because {@code var x = 10;} will be desugared to {@code @var int x = 10;} &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesvar&quot;&gt;the project lombok features page for &amp;64;var&lt;a&gt;." />
@@ -51,14 +54,11 @@
       <item value="Consumes handling event registration attempt messages and delegates to proper registration." />
       <item value="External" />
       <item value="This facade shields the domain layer - model, services, repositories - from concerns about such things as the user interface." />
-      <item value="attachments" />
-      <item value="生成" />
-      <item value="Corp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="356" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
