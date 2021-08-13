@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="524" />
+    <option name="newTranslationDialogWidth" value="522" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="主键" />
       <item value="encrypt" />
       <item value="en" />
       <item value="区分" />
@@ -53,7 +54,6 @@
       <item value="countByFromOpenId" />
       <item value="fromOpenId" />
       <item value="invitePlayer" />
-      <item value="invitedPlayer" />
     </histories>
     <option name="languageScores">
       <map>
