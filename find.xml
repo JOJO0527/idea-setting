@@ -3,14 +3,14 @@
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
     <option name="SEARCH_SCOPE" value="Project production files" />
-    <option name="FILE_MASK" value="*.jsp,*.js, *.inc, *.vue" />
+    <option name="FILE_MASK" value="*.java, *.inc" />
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.jsp,*.js</mask>
     <mask>*.jsp,*.js, *.inc</mask>
     <mask>*.jsp,*.js,*.vue</mask>
-    <mask>*.java, *.inc</mask>
     <mask>*.jsp,*.js, *.inc, *.vue</mask>
+    <mask>*.java, *.inc</mask>
   </component>
 </application>
