@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;em&gt; when it is contained within a {@link SpringApplication}. Multiple {@link ApplicationRunner} beans can be defined within the same application context and can be ordered using the {@link Ordered} interface or {@link Order @Order} annotation." />
       <item value="Build a common Caffeine Cache instance for the specified cache name, using the common Caffeine configuration specified on this cache manager. @param name the name of the cache @return the native Caffeine Cache instance @see createCaffeineCache" />
       <item value="Build a common Caffeine Cache instance for the specified cache name, using the common Caffeine configuration specified on this cache manager." />
       <item value="&lt;p&gt;{@code RuntimeException} and its subclasses are &lt;em&gt;unchecked exceptions&lt;em&gt;. Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary." />
@@ -53,7 +54,6 @@
       <item value="This inspection only reports when the suggested replacement does not result in significant performance drawback on modern JVMs. In many cases the String concatenation may perform better." />
       <item value="裂变红包" />
       <item value="裂变" />
-      <item value="分裂" />
     </histories>
     <option name="languageScores">
       <map>
