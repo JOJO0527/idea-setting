@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="preserve" />
       <item value="The annotated element must be a strictly positive number (i.e. 0 is considered as an invalid value)." />
       <item value="The annotated element must be a strictly negative number (i.e. 0 is considered as an invalid value)." />
       <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;em&gt; when it is contained within a {@link SpringApplication}. Multiple {@link ApplicationRunner} beans can be defined within the same application context and can be ordered using the {@link Ordered} interface or {@link Order @Order} annotation." />
@@ -53,12 +54,11 @@
       <item value="new " />
       <item value="Thaw" />
       <item value="delimiter" />
-      <item value="This inspection only reports when the suggested replacement does not result in significant performance drawback on modern JVMs. In many cases the String concatenation may perform better." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
