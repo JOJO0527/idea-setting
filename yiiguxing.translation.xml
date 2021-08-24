@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogWidth" value="516" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="识别" />
       <item value="preserve" />
       <item value="The annotated element must be a strictly positive number (i.e. 0 is considered as an invalid value)." />
       <item value="The annotated element must be a strictly negative number (i.e. 0 is considered as an invalid value)." />
@@ -53,7 +54,6 @@
       <item value="newly" />
       <item value="new " />
       <item value="Thaw" />
-      <item value="delimiter" />
     </histories>
     <option name="languageScores">
       <map>
