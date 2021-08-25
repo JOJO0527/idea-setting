@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="cheat" />
+      <item value="cheta" />
+      <item value="ch" />
       <item value="识别" />
       <item value="preserve" />
       <item value="The annotated element must be a strictly positive number (i.e. 0 is considered as an invalid value)." />
@@ -51,13 +54,10 @@
       <item value="Asserts that the annotated string, collection, map or array is not {@code null} or empty." />
       <item value="Validate that the annotated string is not {@code null} or empty. The difference to {@code NotEmpty} is that trailing whitespaces are getting ignored." />
       <item value="邀请者" />
-      <item value="newly" />
-      <item value="new " />
-      <item value="Thaw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
+        <entry key="CHINESE" value="368" />
         <entry key="ENGLISH" value="368" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629426625715" />
+    <option name="lastTrimTime" value="1629883080454" />
   </component>
 </application>
