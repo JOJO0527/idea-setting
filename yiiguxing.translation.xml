@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Used to abstract technical concerns" />
       <item value="is Fission" />
       <item value="isFission" />
       <item value="裂变的" />
@@ -53,12 +54,11 @@
       <item value="Normally, if getters are available, those are called. To suppress this and let the generated code use the fields directly, set this to {@code true}." />
       <item value="Will soon be marked {@code @Deprecated}; use the {@code @EqualsAndHashCode.Include} annotation together with {@code @EqualsAndHashCode(onlyExplicitlyIncluded = true)}." />
       <item value="Inspection" />
-      <item value="DTO for presenting and selecting an itinerary from a collection of candidates." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="ENGLISH" value="370" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629883080454" />
+    <option name="lastTrimTime" value="1630399381618" />
   </component>
 </application>
