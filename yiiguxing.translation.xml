@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="This method exists mainly to support debugging, where you want to see the elements as they flow past a certain point in a pipeline:" />
+      <item value="For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
+      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream." />
       <item value="集团" />
       <item value="change the approach to userIdList validation " />
       <item value="A time source that returns a time value representing the number of nanoseconds elapsed since some fixed but arbitrary point in time." />
@@ -51,14 +54,11 @@
       <item value="str" />
       <item value="stur" />
       <item value="sr" />
-      <item value="Should be used at package level in association with {@link Nullable} annotations at parameter and return value level." />
-      <item value="Malformed argument has embedded quote: -Djava.endorsed.dirs=\&quot;\&quot;" />
-      <item value="Default typically equals {@link NO}, unless a different default has been configured at the component-scan instruction level." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
