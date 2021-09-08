@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="新增的" />
       <item value="lossse&#10;" />
       <item value="memory footprint" />
       <item value="memory " />
@@ -53,7 +54,6 @@
       <item value="Set the Caffeine cache specification String to use for building each individual {@link CaffeineCache} instance. The given value needs to comply with Caffeine's {@link CaffeineSpec} (see its javadoc)." />
       <item value="Whether all the entries inside the cache(s) are removed. &lt;p&gt;By default, only the value under the associated key is removed. &lt;p&gt;Note that setting this parameter to {@code true} and specifying a {@link key} is not allowed." />
       <item value="分离" />
-      <item value="f" />
     </histories>
     <option name="languageScores">
       <map>
