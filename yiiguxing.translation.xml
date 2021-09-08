@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="lossse&#10;" />
+      <item value="memory footprint" />
+      <item value="memory " />
+      <item value="mem" />
+      <item value="footprint&#10;" />
+      <item value="footprint" />
+      <item value="差值" />
+      <item value="discoun" />
+      <item value="discount" />
+      <item value="走查" />
       <item value="This method exists mainly to support debugging, where you want to see the elements as they flow past a certain point in a pipeline:" />
       <item value="For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
       <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream." />
@@ -44,21 +54,11 @@
       <item value="Whether all the entries inside the cache(s) are removed. &lt;p&gt;By default, only the value under the associated key is removed. &lt;p&gt;Note that setting this parameter to {@code true} and specifying a {@link key} is not allowed." />
       <item value="分离" />
       <item value="f" />
-      <item value="额外" />
-      <item value="Burry" />
-      <item value="A container for settings for the generation of getters and setters. &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesexperimentalAccessors&quot;&gt;the project lombok features page for &amp;64;Accessors&lt;a&gt;. &lt;p&gt; Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, such as {@link lombok.Setter} or {@link lombok.Data} is also required." />
-      <item value="Use {@code var} as the type of any local variable declaration (even in a {@code for} statement), and the type will be inferred from the initializing expression (any further assignments to the variable are not involved in this type inference). &lt;p&gt; For example: {@code var x = 10.0;} will infer {@code double}, and {@code var y = new ArrayList&lt;String&gt;();} will infer {@code ArrayList&lt;String&gt;}. &lt;p&gt; Note that this is an annotation type because {@code var x = 10;} will be desugared to {@code @var int x = 10;} &lt;p&gt; Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesvar&quot;&gt;the project lombok features page for &amp;64;var&lt;a&gt;." />
-      <item value="Lombok will eventually automatically add this annotation to all generated constructors, methods, fields, and types. You can mark the presence of this annotation as 'ignore it' for all code style and bug finding tools. &lt;p&gt; NB: As of v1.16.2 which introduces this annotation, lombok doesn't actually add this annotation; we're setting it up so that lombok jars in widespread use start having this, which will make it easier to actually apply it later on. By adding {@code lombok.addLombokGeneratedAnnotation = true} to {@code lombok.config} you can already get this behavior." />
-      <item value="Eagerly load the NestedExceptionUtils class to avoid classloader deadlock issues on OSGi when calling getMessage(). Reported by Don Brown; SPR-5607." />
-      <item value="struction" />
-      <item value="str" />
-      <item value="stur" />
-      <item value="sr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="377" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
