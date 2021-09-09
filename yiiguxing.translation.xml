@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="run out" />
       <item value="corrupted zip file" />
       <item value="新增的" />
       <item value="lossse&#10;" />
@@ -53,11 +54,10 @@
       <item value="Set the Caffeine to use for building each individual" />
       <item value="Construct a static CaffeineCacheManager, managing caches for the specified cache names only." />
       <item value="Set the Caffeine cache specification String to use for building each individual {@link CaffeineCache} instance. The given value needs to comply with Caffeine's {@link CaffeineSpec} (see its javadoc)." />
-      <item value="Whether all the entries inside the cache(s) are removed. &lt;p&gt;By default, only the value under the associated key is removed. &lt;p&gt;Note that setting this parameter to {@code true} and specifying a {@link key} is not allowed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
+        <entry key="CHINESE" value="381" />
         <entry key="ENGLISH" value="377" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
