@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="510" />
+    <option name="newTranslationDialogWidth" value="508" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="the number of staff can add" />
+      <item value="the  of staff can add" />
+      <item value="the count of staff can add" />
+      <item value="the count of staff can plus " />
+      <item value="the  of staff can plus " />
+      <item value="the number of staff can plus " />
+      <item value="number of staff can plus " />
+      <item value="number of staff can pl" />
+      <item value="number of staff can pu" />
       <item value="rule&#10;" />
       <item value="rude&#10;" />
       <item value="run out" />
@@ -45,20 +54,11 @@
       <item value="Build a common Caffeine Cache instance for the specified cache name, using the common Caffeine configuration specified on this cache manager. @param name the name of the cache @return the native Caffeine Cache instance @see createCaffeineCache" />
       <item value="Build a common Caffeine Cache instance for the specified cache name, using the common Caffeine configuration specified on this cache manager." />
       <item value="&lt;p&gt;{@code RuntimeException} and its subclasses are &lt;em&gt;unchecked exceptions&lt;em&gt;. Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary." />
-      <item value="领导" />
-      <item value="lingdao" />
-      <item value="封装" />
-      <item value="主键" />
-      <item value="encrypt" />
-      <item value="en" />
-      <item value="区分" />
-      <item value="Register the given native Caffeine Cache instance with this cache manager, adapting it to Spring's cache API for exposure through {@link getCache}. Any number of such custom caches may be registered side by side. &lt;p&gt;This allows for custom settings per cache (as opposed to all caches sharing the common settings in the cache manager's configuration) and is typically used with the Caffeine builder API: {@code registerCustomCache(&quot;myCache&quot;, Caffeine.newBuilder().maximumSize(10).build())} &lt;p&gt;Note that any other caches, whether statically specified through {@link setCacheNames} or dynamically built on demand, still operate with the common settings in the cache manager's configuration." />
-      <item value="Set the Caffeine to use for building each individual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="379" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
