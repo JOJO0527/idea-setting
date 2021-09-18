@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="isUpgraded" />
       <item value="过期&#10;" />
       <item value="企业" />
       <item value="企业&#10;" />
@@ -53,11 +54,10 @@
       <item value="preserve" />
       <item value="The annotated element must be a strictly positive number (i.e. 0 is considered as an invalid value)." />
       <item value="The annotated element must be a strictly negative number (i.e. 0 is considered as an invalid value)." />
-      <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;em&gt; when it is contained within a {@link SpringApplication}. Multiple {@link ApplicationRunner} beans can be defined within the same application context and can be ordered using the {@link Ordered} interface or {@link Order @Order} annotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="384" />
+        <entry key="CHINESE" value="385" />
         <entry key="ENGLISH" value="379" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
