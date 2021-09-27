@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="过期续费" />
+      <item value="过期" />
       <item value="显示" />
       <item value="讲述" />
       <item value="isUpgraded" />
@@ -52,8 +54,6 @@
       <item value="cheat" />
       <item value="cheta" />
       <item value="ch" />
-      <item value="识别" />
-      <item value="preserve" />
     </histories>
     <option name="languageScores">
       <map>
