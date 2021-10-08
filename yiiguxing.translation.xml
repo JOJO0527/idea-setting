@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="508" />
+    <option name="newTranslationDialogWidth" value="506" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="总部" />
       <item value="当前" />
       <item value="d" />
       <item value="dasf " />
@@ -53,7 +54,6 @@
       <item value="裂变的" />
       <item value="&#9;&#9;public static final int SET_CODE_FOR_DRAW = 15;&#9;//抽奖更改兑奖码状态&#10;" />
       <item value="fission" />
-      <item value="fiss" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632972595844" />
+    <option name="lastTrimTime" value="1633674283792" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
