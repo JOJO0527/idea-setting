@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="registration" />
       <item value="july" />
       <item value="总部" />
       <item value="当前" />
@@ -53,12 +54,11 @@
       <item value="is Fission" />
       <item value="isFission" />
       <item value="裂变的" />
-      <item value="&#9;&#9;public static final int SET_CODE_FOR_DRAW = 15;&#9;//抽奖更改兑奖码状态&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
