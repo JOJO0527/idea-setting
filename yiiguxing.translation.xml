@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="506" />
+    <option name="newTranslationDialogWidth" value="504" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="maybe " />
+      <item value="mayn" />
+      <item value="may be" />
+      <item value="may be caused by the same uid who wanna cheat" />
+      <item value=" maybe caused by the same uid who wanna cheat" />
       <item value="listener is consuming" />
       <item value="Client Factory of second party" />
       <item value="Second party" />
@@ -49,16 +54,11 @@
       <item value="number of staff can pu" />
       <item value="rule&#10;" />
       <item value="rude&#10;" />
-      <item value="run out" />
-      <item value="corrupted zip file" />
-      <item value="新增的" />
-      <item value="lossse&#10;" />
-      <item value="memory footprint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="404" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
