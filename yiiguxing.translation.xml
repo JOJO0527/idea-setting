@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="redefine" />
+      <item value="签名" />
       <item value="子账号" />
       <item value="开通" />
       <item value="DistributedTransaction" />
@@ -52,12 +54,10 @@
       <item value="显示" />
       <item value="讲述" />
       <item value="isUpgraded" />
-      <item value="过期&#10;" />
-      <item value="企业" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
+        <entry key="CHINESE" value="411" />
         <entry key="ENGLISH" value="407" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
