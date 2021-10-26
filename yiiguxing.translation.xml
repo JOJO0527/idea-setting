@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="重复" />
       <item value="redefine" />
       <item value="签名" />
       <item value="子账号" />
@@ -53,7 +54,6 @@
       <item value="过期" />
       <item value="显示" />
       <item value="讲述" />
-      <item value="isUpgraded" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634635203382" />
+    <option name="lastTrimTime" value="1635215111846" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="JetBrains Mono" />
