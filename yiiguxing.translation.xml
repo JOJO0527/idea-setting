@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="502" />
+    <option name="newTranslationDialogWidth" value="500" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="屏蔽" />
       <item value="重复" />
       <item value="redefine" />
       <item value="签名" />
@@ -53,7 +54,6 @@
       <item value="过期续费" />
       <item value="过期" />
       <item value="显示" />
-      <item value="讲述" />
     </histories>
     <option name="languageScores">
       <map>
