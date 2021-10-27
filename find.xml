@@ -10,8 +10,8 @@
     <mask>*.jsp,*.js, *.inc</mask>
     <mask>*.jsp,*.js,*.vue</mask>
     <mask>*.jsp,*.js, *.inc, *.vue</mask>
-    <mask>*.java, *.inc</mask>
     <mask>*.jsp,*.js</mask>
     <mask>*.java</mask>
+    <mask>*.java, *.inc</mask>
   </component>
 </application>
