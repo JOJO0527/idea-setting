@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="remote peer." />
+      <item value="peer" />
+      <item value="Process incoming request command issued by remote peer." />
       <item value="This method is periodically invoked to scan and expire deprecated request." />
       <item value="fatal" />
       <item value="post" />
@@ -51,14 +54,11 @@
       <item value="&lt;li&gt;&lt;p&gt; The &lt;i&gt;ready set&lt;i&gt; identifies the operation categories for which the key's channel has been detected to be ready by the key's selector. The ready set is initialized to zero when the key is created; it may later be updated by the selector during a selection operation, but it cannot be updated directly. &lt;p&gt;&lt;li&gt;" />
       <item value="determines" />
       <item value="registration" />
-      <item value="july" />
-      <item value="总部" />
-      <item value="当前" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="GUJARATI" value="1" />
