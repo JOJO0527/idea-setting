@@ -1,9 +1,10 @@
 <application>
   <component name="JavaRebelPlugin">
-    <option name="settingsStartupRadioSelection" value="2" />
+    <option name="javaRebelPath" value="D:\Idea Config System\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.NoExternalAutoconvert" value="false" />
         <entry key="com.zeroturnaround.jrebel.ide.RemoteServerIdCounter" value="2" />
         <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;serverAuthenticationPassword&quot;:&quot;8023wan.R&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;name&quot;:&quot;本地hdportal&quot;,&quot;useServerAuthentication&quot;:&quot;true&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http:\/\/i.hd.fff.com\/newVersion\/#\/market\/home&quot;},{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;serverAuthenticationPassword&quot;:&quot;8023wan.R&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;name&quot;:&quot;本地hdgame&quot;,&quot;useServerAuthentication&quot;:&quot;true&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;2&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http:\/\/hd.aaa.cn&quot;}]}" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
