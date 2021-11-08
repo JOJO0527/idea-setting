@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="unless" />
       <item value="一次性&#10;" />
       <item value="guarding" />
       <item value="补发" />
@@ -53,12 +54,11 @@
       <item value="specific" />
       <item value="associate" />
       <item value="upon" />
-      <item value="depends upon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -72,10 +72,16 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635821627454" />
+    <option name="lastTrimTime" value="1636362054863" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200916000567015" />
+      </app-key>
+    </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
