@@ -3,6 +3,7 @@
     <notification groupId="BetterIntelliJ" displayType="NONE" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="Lombok plugin" displayType="NONE" />
     <notification groupId="TKK Update Failed" displayType="NONE" />
   </component>
 </application>
