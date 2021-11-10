@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="synchro" />
       <item value="capacity" />
       <item value="primitive" />
       <item value="外卖红包" />
@@ -53,11 +54,10 @@
       <item value="Second part" />
       <item value="In any case, a selection operation will always use the interest-set value that was current at the moment that the operation began." />
       <item value="In any case" />
-      <item value="briefly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
+        <entry key="CHINESE" value="423" />
         <entry key="ENGLISH" value="423" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
