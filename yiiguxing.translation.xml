@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="capacity" />
+      <item value="primitive" />
       <item value="外卖红包" />
       <item value="外卖" />
       <item value="外卖&#10;" />
@@ -52,13 +54,11 @@
       <item value="In any case, a selection operation will always use the interest-set value that was current at the moment that the operation began." />
       <item value="In any case" />
       <item value="briefly" />
-      <item value="indefinitely" />
-      <item value="It is often necessary to associate some application-specific data with a selection key, for example an object that represents the state of a higher-level protocol and handles readiness notifications in order to implement that protocol. Selection keys therefore support the &lt;i&gt;attachment&lt;i&gt; of a single arbitrary object to a key. An object can be attached via the {@link attach attach} method and then later retrieved via the {@link attachment() attachment} method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
