@@ -2,14 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d195c507-05d8-4411-9de8-3467a489b818" name="hdPortal-dev7">
-        <fileTransfer rootFolder="/home/faier" accessType="SFTP" host="dev7.faidev.cc" port="50805" sshConfigId="985117d6-c63e-4799-afe6-d09248ade880" sshConfig="faier@dev7.faidev.cc:50805 password">
+        <fileTransfer rootFolder="/home/faier" accessType="SFTP" host="dev7.faidev.cc" port="50805" sshConfigId="985117d6-c63e-4799-afe6-d09248ade880" sshConfig="local@dev7">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="a58c003c-c6b2-478f-9915-6ce7e1a097f9" name="hdGame-dev7">
-        <fileTransfer rootFolder="/home/faier" accessType="SFTP" host="dev7.faidev.cc" port="50805" sshConfigId="985117d6-c63e-4799-afe6-d09248ade880" sshConfig="faier@dev7.faidev.cc:50805 password">
+        <fileTransfer rootFolder="/home/faier" accessType="SFTP" host="dev7.faidev.cc" port="50805" sshConfigId="985117d6-c63e-4799-afe6-d09248ade880" sshConfig="local@dev7">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
