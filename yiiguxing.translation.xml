@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="500" />
+    <option name="newTranslationDialogWidth" value="498" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="没有外部联系人权限" />
       <item value="synchro" />
       <item value="capacity" />
       <item value="primitive" />
@@ -53,7 +54,6 @@
       <item value="第三方" />
       <item value="Second part" />
       <item value="In any case, a selection operation will always use the interest-set value that was current at the moment that the operation began." />
-      <item value="In any case" />
     </histories>
     <option name="languageScores">
       <map>
