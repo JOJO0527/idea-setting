@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="INCREASE" />
+      <item value="draw Suc Commission" />
+      <item value="draw Commission" />
+      <item value="earned Commission" />
       <item value="没有外部联系人权限" />
       <item value="synchro" />
       <item value="capacity" />
@@ -50,15 +54,11 @@
       <item value=" maybe caused by the same uid who wanna cheat" />
       <item value="listener is consuming" />
       <item value="Client Factory of second party" />
-      <item value="Second party" />
-      <item value="第三方" />
-      <item value="Second part" />
-      <item value="In any case, a selection operation will always use the interest-set value that was current at the moment that the operation began." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="427" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636362054863" />
+    <option name="lastTrimTime" value="1637044219018" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
