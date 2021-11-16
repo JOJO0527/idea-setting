@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="i.e." />
       <item value="INCREASE" />
       <item value="draw Suc Commission" />
       <item value="draw Commission" />
@@ -53,12 +54,11 @@
       <item value="may be caused by the same uid who wanna cheat" />
       <item value=" maybe caused by the same uid who wanna cheat" />
       <item value="listener is consuming" />
-      <item value="Client Factory of second party" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
