@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="494" />
+    <option name="newTranslationDialogWidth" value="492" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="粒度" />
+      <item value="降低" />
       <item value="前缀&#10;" />
       <item value="it is not TakeOut RedPacket" />
       <item value="it is Not TakeOut RedPacket" />
@@ -52,8 +54,6 @@
       <item value="shallo" />
       <item value="shallow" />
       <item value="s" />
-      <item value="embedded" />
-      <item value="synchronously" />
     </histories>
     <option name="languageScores">
       <map>
