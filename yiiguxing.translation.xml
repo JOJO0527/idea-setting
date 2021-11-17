@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="decrease" />
+      <item value="increase" />
+      <item value="increa" />
+      <item value="increate" />
+      <item value="incre" />
+      <item value="in" />
       <item value="粒度" />
       <item value="降低" />
       <item value="前缀&#10;" />
@@ -48,16 +54,10 @@
       <item value="签名" />
       <item value="子账号" />
       <item value="开通" />
-      <item value="DistributedTransaction" />
-      <item value="命中" />
-      <item value="retained" />
-      <item value="shallo" />
-      <item value="shallow" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
+        <entry key="CHINESE" value="430" />
         <entry key="ENGLISH" value="428" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
