@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="498" />
+    <option name="newTranslationDialogWidth" value="496" />
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="it is not TakeOut RedPacket" />
+      <item value="it is Not TakeOut RedPacket" />
+      <item value="is Not TakeOut RedPacket" />
+      <item value="is Not  RedPacket TakeOut" />
+      <item value="is Not TakeOutRedPacket" />
+      <item value="is NotTakeOutRedPacket" />
+      <item value="isNotTakeOutRedPacket" />
       <item value="i.e." />
       <item value="INCREASE" />
       <item value="draw Suc Commission" />
@@ -47,17 +54,10 @@
       <item value="embedded" />
       <item value="synchronously" />
       <item value="synchronizedly" />
-      <item value="synchronized" />
-      <item value="maybe " />
-      <item value="mayn" />
-      <item value="may be" />
-      <item value="may be caused by the same uid who wanna cheat" />
-      <item value=" maybe caused by the same uid who wanna cheat" />
-      <item value="listener is consuming" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="427" />
+        <entry key="CHINESE" value="429" />
         <entry key="ENGLISH" value="428" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
