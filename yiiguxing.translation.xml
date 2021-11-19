@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="backlog" />
       <item value="decrease" />
       <item value="increase" />
       <item value="increa" />
@@ -53,12 +54,11 @@
       <item value="redefine" />
       <item value="签名" />
       <item value="子账号" />
-      <item value="开通" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="430" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="429" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
