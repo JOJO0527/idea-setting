@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="Shortcut" />
       <item value="backlog" />
       <item value="decrease" />
       <item value="increase" />
@@ -53,12 +54,11 @@
       <item value="重复" />
       <item value="redefine" />
       <item value="签名" />
-      <item value="子账号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637044219018" />
+    <option name="lastTrimTime" value="1637741662559" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
