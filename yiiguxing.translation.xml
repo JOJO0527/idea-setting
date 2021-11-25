@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="does not otherwise impose" />
+      <item value="otherwise" />
+      <item value="impose" />
+      <item value="This method does not otherwise impose any synchronization or {@code volatile} field accesses." />
+      <item value="intended to" />
+      <item value="opportunistically" />
+      <item value="minor bookkeeping." />
+      <item value="bookkeeping" />
       <item value="no inbound traffic" />
       <item value="traffic" />
       <item value="has not performed read, write, or both operation for a while." />
@@ -46,19 +54,11 @@
       <item value="Several Times" />
       <item value="SLQ 92" />
       <item value="mimics" />
-      <item value="remote peer." />
-      <item value="peer" />
-      <item value="Process incoming request command issued by remote peer." />
-      <item value="This method is periodically invoked to scan and expire deprecated request." />
-      <item value="fatal" />
-      <item value="post" />
-      <item value="post-processors" />
-      <item value="compliant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
