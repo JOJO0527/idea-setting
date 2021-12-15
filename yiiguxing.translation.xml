@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="struct" />
+      <item value="struction" />
       <item value="Reserve" />
       <item value="间隔&#10;" />
       <item value="将。。修改为" />
@@ -52,12 +54,10 @@
       <item value="没有外部联系人权限" />
       <item value="synchro" />
       <item value="capacity" />
-      <item value="primitive" />
-      <item value="外卖红包" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
+        <entry key="CHINESE" value="451" />
         <entry key="ENGLISH" value="449" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
