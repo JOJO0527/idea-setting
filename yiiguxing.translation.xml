@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="773" />
     <option name="newTranslationDialogY" value="663" />
     <histories>
+      <item value="canonical" />
       <item value="增长" />
       <item value="增" />
       <item value="增大&#10;" />
@@ -53,12 +54,11 @@
       <item value="INCREASE" />
       <item value="draw Suc Commission" />
       <item value="draw Commission" />
-      <item value="earned Commission" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="BULGARIAN" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
