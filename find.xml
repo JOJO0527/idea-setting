@@ -8,10 +8,10 @@
     <mask>*.conf</mask>
     <mask>*.jsp,*.js,*.vue</mask>
     <mask>*.jsp,*.js, *.inc, *.vue</mask>
-    <mask>*.jsp,*.js</mask>
     <mask>*.java, *.inc</mask>
     <mask>*.jsp,*.js, *.inc</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.jsp,*.js</mask>
   </component>
 </application>
